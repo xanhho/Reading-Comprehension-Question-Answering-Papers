@@ -3,7 +3,7 @@
 This is a statistic of all the Datasets use in Reading Comprehension/Question Answering Tasks that I know (sorted by year). 
 
 |Year | Dataset    | Task | Size                | Source | Where             | Web     | Answer type                                                | Conversational                              | similar datasets     |
-|------------|------|----------------------|------|--------------------|-----------|----------------------------------------------------|-----------------------------------|----------------------|
+|-----|-----|------|-----|-----|-----|-----|-----|-----|-----|
 
 
 # 1. DeepRead - 1999
