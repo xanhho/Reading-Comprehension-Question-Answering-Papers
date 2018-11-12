@@ -2,7 +2,7 @@
 
 This is a statistic of all the Datasets use in Reading Comprehension/Question Answering Tasks that I know (sorted by year). 
 
-|Year | Dataset    | Task | Size                | Source | Where             | Web     | Answer type                                                | Conversational                              | similar datasets     |
+|Year | Dataset    | Task | Size                | Source | Where             | Web     | Answer type                                                | Conversational                              | Similar datasets     |
 |-----|-----|------|-----|-----|-----|-----|-----|-----|-----|
 
 
