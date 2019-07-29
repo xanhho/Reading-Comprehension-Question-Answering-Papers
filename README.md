@@ -25,7 +25,7 @@
 |2018|CSQA||||[paper](https://arxiv.org/pdf/1801.10314.pdf)|||
 |2018|CQA||||[paper](http://aclweb.org/anthology/N18-1059)|||
 |2018|SQuAD 2.0||||[paper](https://rajpurkar.github.io/SQuAD-explorer/)|||
-|2018|CoQA||||[paper](https://stanfordnlp.github.io/coqa/)|||
+|2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| conversational questions | QuAC |
 |2018|Quac||||[paper](http://quac.ai/)|||
 
 
