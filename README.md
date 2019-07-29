@@ -5,14 +5,11 @@ This is a statistic of all the Datasets use in Reading Comprehension/Question An
 
 | Year | Dataset | Task | Size | Source | Web/Paper | Answer type                                                                  | Similar datasets |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1999|DeepRead|?|?|?|[link](https://dl.acm.org/citation.cfm?id=1034678.1034731)|?|?|
+|1999|DeepRead|?|?|?|[paper](https://dl.acm.org/citation.cfm?id=1034678.1034731)|?|?|
+
+|2013|QA4MRE|?|?|?|[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)|?|?|
 
 
-# 1. DeepRead - 1999
-
-
-# 2. QA4MRE - 2013
-https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf
 
 # 3. MCTest - 2013
 http://aclweb.org/anthology/D13-1020
