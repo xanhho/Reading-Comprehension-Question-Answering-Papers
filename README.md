@@ -1,7 +1,8 @@
 ### Papers/Models
 | Year | Title | Model| Conference | Author/Team | Datasets | Link                                                                  | Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2015 | Teaching Machines to Read and Comprehend |  | NIPS | Google DeepMind, University of Oxford | CNN/Daily Mail | [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf) | [code]() |
+| 2015 | Teaching Machines to Read and Comprehend |  | NIPS | Google DeepMind, University of Oxford | CNN and Daily Mail | [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf) | code |
+| 2016 | Text Understanding with the Attention Sum Reader Network |  | ACL | IBM Watson | Children’s Book Test, CNN and Daily Mail | [paper](https://www.aclweb.org/anthology/P16-1086) | [code](https://github.com/rkadlec/asreader) |
 | 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | University of Washington, Allen Institute | SQuAD 1.1 | [paper](https://arxiv.org/pdf/1611.01603.pdf) | [code](https://github.com/allenai/bi-att-flow) |
 | 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | Technical Report | Microsoft Research Asia  | SQuAD 1.1, MS-MARCO | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) | [code](https://github.com/HKUST-KnowComp/R-Net) |
 | 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA | ACL | Danqi Chen et al.,  | SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | [paper](https://www.aclweb.org/anthology/P17-1171) | [code](https://github.com/facebookresearch/DrQA) |
