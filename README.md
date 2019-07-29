@@ -36,11 +36,22 @@
 |2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| conversational questions | QuAC |
 |2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)| conversational questions | CoAQ |
 |2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| multi-hop reasoning | QAngaroo |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2018 | SWAG |  |  |  |  |  |  |
+| 2018 | DNC |  |  |  |  |  |  |
+| 2018 | OpenBookQA |  |  |  |  |  |  |
+| 2018 | RecipeQA |  |  |  |  |  |  |
+| 2018 | CLOTH |  |  |  |  |  |  |
+| 2018 | DuoRC |  |  |  |  |  |  |
+| 2018 | CliCR |  |  |  |  |  |  |
+| 2018 | FEVER |  |  |  |  |  |  |
+| 2018 | ProPara |  |  |  |  |  |  |
+| 2018 | ARC |  |  |  |  |  |  |
 
 
 
-
+# Thanks to these repositories:
+- https://github.com/penzant/nlu_datasets_2018
+- https://github.com/seriousmac/awesome-qa
 
 
 
