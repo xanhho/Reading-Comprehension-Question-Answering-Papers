@@ -2,7 +2,10 @@
 | Year | Title | Model| Conference | Author/Team | Datasets | Link                                                                  | Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | Allen Institute | SQuAD | [paper](https://arxiv.org/pdf/1611.01603.pdf) | [code](https://github.com/allenai/bi-att-flow) |
-| 2018 | QANET: Combining local COnvolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, 2Google Brain  | SQuAD | [paper](https://openreview.net/pdf?id=B14TlG-RW) | [code](https://github.com/NLPLearn/QANet) |
+| 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | ACL | Microsoft Research Asia  | SQuAD | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) | [code](https://github.com/HKUST-KnowComp/R-Net) |
+| 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA | ACL | Danqi Chen et al.,  | SQuAD | [paper](https://www.aclweb.org/anthology/P17-1171) | [code](https://github.com/hitvoice/DrQA) |
+| 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD | [paper](https://openreview.net/pdf?id=B14TlG-RW) | [code](https://github.com/NLPLearn/QANet) |
+
 
 
 ### Datasets
