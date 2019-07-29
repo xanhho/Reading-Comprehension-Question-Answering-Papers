@@ -21,13 +21,13 @@
 |2017|NarrativeQA||||[paper](https://github.com/deepmind/narrativeqa)|||
 |2017|SearchQA||||[paper](https://arxiv.org/pdf/1704.05179.pdf)|||
 |2017|WikiSuggest||||[paper](https://aclweb.org/anthology/D15-1237)|||
-|2018|MultiRC||||[paper](https://cogcomp.org/multirc/)|||
+|2018|MultiRC| RC | 6k+ | various articles |[paper](https://cogcomp.org/multirc/)| multiple choice  | MCTest |
 |2018|CSQA||||[paper](https://arxiv.org/pdf/1801.10314.pdf)|||
 |2018|CQA||||[paper](http://aclweb.org/anthology/N18-1059)|||
-|2018|SQuAD 2.0||||[paper](https://rajpurkar.github.io/SQuAD-explorer/)|||
+|2018|SQuAD 2.0| RC | 150k | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| no answer: 50k| NewsQA |
 |2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| conversational questions | QuAC |
 |2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)| conversational questions | CoAQ |
-|2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/) [paper](https://arxiv.org/pdf/1809.09600.pdf)| multi-hop reasoning | QAngaroo |
+|2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| multi-hop reasoning | QAngaroo |
 
 
 
