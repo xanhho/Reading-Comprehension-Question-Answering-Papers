@@ -2,7 +2,6 @@
 | Year | Title | Model| Conference | Author/Team | Datasets | Link                                                                  | Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | Allen Institute | SQuAD | [paper](https://arxiv.org/pdf/1611.01603.pdf) | [code](https://github.com/allenai/bi-att-flow) |
-
 | 2018 | QANET: Combining local COnvolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, 2Google Brain  | SQuAD | [paper](https://openreview.net/pdf?id=B14TlG-RW) | [code](https://github.com/NLPLearn/QANet) |
 
 
