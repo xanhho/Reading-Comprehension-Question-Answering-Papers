@@ -36,7 +36,7 @@
 |2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| conversational questions | QuAC |
 |2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)| conversational questions | CoAQ |
 |2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| multi-hop reasoning | QAngaroo |
-
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 
 
