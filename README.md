@@ -1,8 +1,7 @@
 ### Papers/Models
 | Year | Title | Model| Conference | Author/Team | Datasets | Link                                                                  | Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2017 | BI-DIRECTIONAL ATTENTION FLOW
-FOR MACHINE COMPREHENSION | BiDAF | ICLR | Allen Institute | SQuAD | [paper](https://arxiv.org/pdf/1611.01603.pdf) | [code](https://github.com/allenai/bi-att-flow) |
+| 2017 | BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION | BiDAF | ICLR | Allen Institute | SQuAD | [paper](https://arxiv.org/pdf/1611.01603.pdf) | [code](https://github.com/allenai/bi-att-flow) |
 
 
 ### Datasets
