@@ -6,7 +6,6 @@ This is a statistic of all the Datasets use in Reading Comprehension/Question An
 | Year | Dataset | Task | Size | Source | Web/Paper | Answer type                                                                  | Similar datasets |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1999|DeepRead|?|?|?|[paper](https://dl.acm.org/citation.cfm?id=1034678.1034731)|?|?|
-
 |2013|QA4MRE|?|?|?|[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)|?|?|
 
 
