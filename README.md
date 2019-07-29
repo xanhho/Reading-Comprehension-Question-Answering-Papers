@@ -2,8 +2,9 @@
 
 This is a statistic of all the Datasets use in Reading Comprehension/Question Answering Tasks that I know (sorted by year). 
 
-|Year | Dataset    | Task | Size                | Source     | Web     | Answer type                                                                       | Similar datasets     |
-|------------|------|----------------------|------|--------------------|-----------|----------------------------------------------------|
+
+| Year | Dataset | Task | Size | Source | Web | Answer type                                                                  | Similar datasets |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1999|DeepRead|?|?|?|?|?|?|
 
 
