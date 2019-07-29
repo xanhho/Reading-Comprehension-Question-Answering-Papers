@@ -1,7 +1,5 @@
-
-
-This is a statistic of all the Datasets use in Reading Comprehension/Question Answering Tasks that I know (sorted by year). 
-
+### Papers 
+### Datasets
 
 | Year | Dataset | Task | Size | Source | Web/Paper | Answer type                                                                  | Similar datasets |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
