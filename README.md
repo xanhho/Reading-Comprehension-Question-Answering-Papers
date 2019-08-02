@@ -46,19 +46,18 @@
 |2018|CSQA| QA |200k dialogs, 1.6M turns ||[paper](https://arxiv.org/pdf/1801.10314.pdf)|  |  |  |
 |2018|CQA||||[paper](http://aclweb.org/anthology/N18-1059)|  |  | |
 |2018|SQuAD 2.0| RC | 150k | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction | no answer: 50k | NewsQA |
-|2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)|  | conversational questions | QuAC |
-|2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)|  | conversational questions | CoAQ |
-|2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)|  | multi-hop reasoning | QAngaroo |
-| 2018 | SWAG |  |  |  |  |  |  |  |
-| 2018 | DNC |  |  |  |  |  |  | |
-| 2018 | OpenBookQA |  |  |  |  |  |  |  |
-| 2018 | RecipeQA |  |  |  |  |  |  | |
-| 2018 | CLOTH |  |  |  |  | Cloze test |  | |
-| 2018 | DuoRC |  |  |  |  | Span extraction |  |  |
-| 2018 | CliCR |  |  |  |  | Cloze test |  |  |
+|2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| Free answering | conversational questions | QuAC |
+|2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)| Span extraction | conversational questions | CoQA |
+|2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| Span extraction | multi-hop reasoning | QAngaroo |
+| 2018 | SWAG | QA | 113k | video caption |  | Multiple choice | situational commonsense reasoning |  |
+| 2018 | OpenBookQA | QA | 6k | science facts |  | Multiple choice  | external knowledge | ARC |
+| 2018 | RecipeQA | RC | 36k | various |  |  | multimodal comprehension |  |
+| 2018 | CLOTH | RC | 99k | English exams |  | Cloze test |  | RACE |
+| 2018 | DuoRC | RC | 186k | movie plot |  | Span extraction |  | NarrativeQA  |
+| 2018 | CliCR | RC | 100k | clinical case text |  | Cloze test |  |  |
 | 2018 | FEVER |  |  |  |  |  |  | |
-| 2018 | ProPara |  |  |  |  |  |  |  |
-| 2018 | ARC |  |  |  |  |  |  | |
+| 2018 | ProPara | RC | 2k | procedural text |  |  |  | bAbI, SCoNE |
+| 2018 | ARC | RC | 8k | science exam |  |  | easy 5197, challenge 2590 | |
 | 2018 | DuReader |  |  |  |  | Free answering |  |  |
 
 
