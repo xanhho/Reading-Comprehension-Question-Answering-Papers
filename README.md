@@ -1,4 +1,4 @@
-### Survey/Overview papers/documents should read
+### Survey/Overview papers/documents should read in Machine Reading Comprehension
 - Danqi Chen: Neural Reading Comprehension and Beyond. PhD thesis, Stanford University, 2018, [link](https://github.com/danqi/thesis).
 - Boyu Qiu et al., A Survey on Neural Machine Reading Comprehension, arXiv, 2019, [link](https://arxiv.org/pdf/1906.03824.pdf).
 - Shanshan Liu et al., Neural Machine Reading Comprehension: Methods and Trends, arXiv, 2019, [link](https://arxiv.org/pdf/1907.01118.pdf).
@@ -42,8 +42,8 @@
 |2017|NarrativeQA||||[paper](https://github.com/deepmind/narrativeqa)| Free answering |  |  |
 |2017|SearchQA||||[paper](https://arxiv.org/pdf/1704.05179.pdf)| Free answering |  | |
 |2017|WikiSuggest||||[paper](https://aclweb.org/anthology/D15-1237)|  |  | |
-|2018|MultiRC| RC | 6k+ | various articles |[paper](https://cogcomp.org/multirc/)| Multiple choice  |  | MCTest |
-|2018|CSQA||||[paper](https://arxiv.org/pdf/1801.10314.pdf)|  |  | |
+|2018|MultiRC| RC | 6k+ questions | various articles | [web](https://cogcomp.seas.upenn.edu/multirc/), [paper](https://www.aclweb.org/anthology/N18-1023)| Multiple choice  | multiple sentence reasoning | MCTest |
+|2018|CSQA| QA |200k dialogs, 1.6M turns ||[paper](https://arxiv.org/pdf/1801.10314.pdf)|  |  |  |
 |2018|CQA||||[paper](http://aclweb.org/anthology/N18-1059)|  |  | |
 |2018|SQuAD 2.0| RC | 150k | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction | no answer: 50k | NewsQA |
 |2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)|  | conversational questions | QuAC |
