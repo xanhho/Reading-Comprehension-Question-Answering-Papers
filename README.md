@@ -28,7 +28,7 @@
 |1999|DeepRead| RC | 60 development and 60 test? | news stories|[paper](https://dl.acm.org/citation.cfm?id=1034678.1034731)| Free answering |  |  |
 |2013|QA4MRE| RC | | various articles |[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)| Multiple choice |  | |
 |2013|MCTest| RC | 500 stories + 2k questions | fictional stories |[paper](http://aclweb.org/anthology/D13-1020)| Multiple choice | open-domain  |  |
-|2015|CNN and Daily Mail||||[paper](https://cs.nyu.edu/~kcho/DMQA/)| Cloze test |  |  |
+|2015|CNN and Daily Mail| RC | 93k + 220k articles| CNN + Daily Mail |[paper](https://cs.nyu.edu/~kcho/DMQA/)| Cloze test |  |  |
 |2015|bAbI||||[web](https://research.fb.com/downloads/babi/)| Free answering |  |  |
 |2015|Children's Book Test||||[web](https://research.fb.com/downloads/babi/)| Cloze test |  | |
 |2016|LAMBADA||||[paper](http://clic.cimec.unitn.it/lambada/)| Cloze test |  | |
