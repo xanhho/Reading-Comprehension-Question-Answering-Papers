@@ -26,7 +26,7 @@
 | Year | Dataset | Task | Size | Source | Web/Paper | Answer type                                                                  | Misc | Similar datasets |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1999|DeepRead| RC | 60 development and 60 test? | news stories|[paper](https://dl.acm.org/citation.cfm?id=1034678.1034731)| Free answering |  |  |
-|2013|QA4MRE|?|?|?|[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)|  |  | |
+|2013|QA4MRE| RC | | various articles |[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)| Multiple choice |  | |
 |2013|MCTest||||[paper](http://aclweb.org/anthology/D13-1020)| Multiple choice |  |  |
 |2015|CNN and Daily Mail||||[paper](https://cs.nyu.edu/~kcho/DMQA/)| Cloze test |  |  |
 |2015|bAbI||||[web](https://research.fb.com/downloads/babi/)| Free answering |  |  |
