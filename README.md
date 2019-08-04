@@ -29,8 +29,8 @@
 |2013|QA4MRE| RC | | various articles |[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)| Multiple choice |  | |
 |2013|MCTest| RC | 500 stories + 2k questions | fictional stories |[paper](http://aclweb.org/anthology/D13-1020)| Multiple choice | open-domain  |  |
 |2015|CNN and Daily Mail| RC | 93k + 220k articles| CNN + Daily Mail |[paper](https://cs.nyu.edu/~kcho/DMQA/)| Cloze test |  |  |
-|2015|bAbI||||[web](https://research.fb.com/downloads/babi/)| Free answering |  |  |
-|2015|Children's Book Test||||[web](https://research.fb.com/downloads/babi/)| Cloze test |  | |
+|2015|bAbI| RC | | classic text adventure game |[web](https://research.fb.com/downloads/babi/)| Free answering | 20 tasks |  |
+|2015|Children's Book Test| RC | 108 children's books | |[web](https://research.fb.com/downloads/babi/)| Cloze test |  | |
 |2016|LAMBADA||||[paper](http://clic.cimec.unitn.it/lambada/)| Cloze test |  | |
 |2016|Who-did-What||||[paper](https://tticnlp.github.io/who_did_what/)| Cloze test |  | |
 |2016|MS MARCO||||[web](http://www.msmarco.org/dataset.aspx)| Free answering |  |  |
