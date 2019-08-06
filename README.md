@@ -1,4 +1,4 @@
-### News Papers on MRC from ACL 2019
+### New Papers from ACL 2019 about MRC
 - Yimeng Zhuang and Huadong Wang, Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1218).
 - Chao Wang and Hui Jiang, Explicit Utilization of General Knowledge in Machine Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1219).
 - Kyosuke Nishida et al., Multi-style Generative Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1220).
