@@ -1,42 +1,41 @@
 ### New Papers from ACL 2019 about MRC
-- Yimeng Zhuang and Huadong Wang, Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1218).
-- Chao Wang and Hui Jiang, Explicit Utilization of General Knowledge in Machine Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1219).
-- Kyosuke Nishida et al., Multi-style Generative Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1220).
-- Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1221).
-- Ming Ding et al., Cognitive Graph for Multi-Hop Reading Comprehension at Scale, [link](https://www.aclweb.org/anthology/P19-1259).
-- Ming Tu et al., Multi-hop reading comprehension across multiple documents by reasoning over heterogeneous graphs, [link](https://www.aclweb.org/anthology/P19-1260).
-- An Yang et al., Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1226).
-- Alon Talmor and Jonathan Berant, MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1485).
-- Yichen Jiang el at., Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension, [link](https://arxiv.org/pdf/1906.05210.pdf).
-- Yi Tay et al., Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives, [link](https://www.aclweb.org/anthology/P19-1486).
-- Sewon Min et al, Multi-hop Reading Comprehension through Question Decomposition and Rescoring, [link](https://www.aclweb.org/anthology/P19-1613).
-- Souvik Kundu et al., Exploiting Explicit Paths for Multi-hop Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1263).
-- Haichao Zhu et al., Learning to Ask Unanswerable Questions for Machine Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1415).
-- Xuanyu Zhang, MC^2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension, [link](https://www.aclweb.org/anthology/P19-1622).
-- Diana Galvan, Active Reading Comprehension: A dataset for learning the
-Question-Answer Relationship strategy, [link](https://www.aclweb.org/anthology/P19-2014).
+- Yimeng Zhuang and Huadong Wang, **Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1218).
+- Chao Wang and Hui Jiang, **Explicit Utilization of General Knowledge in Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1219).
+- Kyosuke Nishida et al., **Multi-style Generative Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1220).
+- Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, **Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1221).
+- Ming Ding et al., **Cognitive Graph for Multi-Hop Reading Comprehension at Scale**, [link](https://www.aclweb.org/anthology/P19-1259).
+- Ming Tu et al., **Multi-hop reading comprehension across multiple documents by reasoning over heterogeneous graphs**, [link](https://www.aclweb.org/anthology/P19-1260).
+- An Yang et al., **Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1226).
+- Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1485).
+- Yichen Jiang el at., **Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension**, [link](https://arxiv.org/pdf/1906.05210.pdf).
+- Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, [link](https://www.aclweb.org/anthology/P19-1486).
+- Sewon Min et al., **Multi-hop Reading Comprehension through Question Decomposition and Rescoring**, [link](https://www.aclweb.org/anthology/P19-1613).
+- Souvik Kundu et al., **Exploiting Explicit Paths for Multi-hop Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1263).
+- Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1415).
+- Xuanyu Zhang, **MC^2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1622).
+- Diana Galvan, **Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy**, [link](https://www.aclweb.org/anthology/P19-2014).
 
 
 
 ### Survey/Overview papers/documents should read on Machine Reading Comprehension
-- Danqi Chen: Neural Reading Comprehension and Beyond. PhD thesis, Stanford University, 2018, [link](https://github.com/danqi/thesis).
-- Boyu Qiu et al., A Survey on Neural Machine Reading Comprehension, arXiv, 2019, [link](https://arxiv.org/pdf/1906.03824.pdf).
-- Shanshan Liu et al., Neural Machine Reading Comprehension: Methods and Trends, arXiv, 2019, [link](https://arxiv.org/pdf/1907.01118.pdf).
+- Danqi Chen: **Neural Reading Comprehension and Beyond**. PhD thesis, Stanford University, 2018, [link](https://github.com/danqi/thesis).
+- Boyu Qiu et al., **A Survey on Neural Machine Reading Comprehension**, arXiv, 2019, [link](https://arxiv.org/pdf/1906.03824.pdf).
+- Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [link](https://arxiv.org/pdf/1907.01118.pdf).
 
 
 ### Papers/Models
 | Year | Title | Model| Conference | Author/Team | Datasets | Misc                                                                  | Paper, Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2015 | Teaching Machines to Read and Comprehend |  | NIPS | Google DeepMind, University of Oxford | CNN and Daily Mail | [ |paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), code |
-| 2016 | Text Understanding with the Attention Sum Reader Network |  | ACL | IBM Watson | Children’s Book Test, CNN and Daily Mail |  |[paper](https://www.aclweb.org/anthology/P16-1086), [code](https://github.com/rkadlec/asreader) |
-| 2016 | Key-Value Memory Networks for Directly Reading Documents |  | EMNLP | Facebook AI Research, CMU | WikiMovies, WikiQA  |  |[paper](https://aclweb.org/anthology/D16-1147), [code](https://github.com/facebook/MemNN/tree/master/KVmemnn) |
-| 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | University of Washington, Allen Institute | SQuAD 1.1 |  |[paper](https://arxiv.org/pdf/1611.01603.pdf), [code](https://github.com/allenai/bi-att-flow) |
-| 2017 | Machine Comprehension Using Match-LSTM and Answer Pointer |  | ICLR | Singapore Management University | SQuAD 1.1 |  |[paper](https://arxiv.org/pdf/1608.07905.pdf), [code](https://github.com/shuohangwang/SeqMatchSeq) |
-| 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | Technical Report | Microsoft Research Asia  | SQuAD 1.1, MS-MARCO |  |[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) |
-| 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA | ACL | Danqi Chen et al.,  | SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | [paper](https://www.aclweb.org/anthology/P17-1171) | [code](https://github.com/facebookresearch/DrQA) |
-| 2017 | Gated-Attention Readers for Text Comprehension |  | ACL | CMU  | CNN and Daily Mail, Children’s Book Test, Who Did What | [paper](https://arxiv.org/pdf/1606.01549.pdf) | [code](https://github.com/bdhingra/ga-reader) |
-| 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD 1.1 | [paper](https://openreview.net/pdf?id=B14TlG-RW) | [code](https://github.com/google-research/google-research/tree/master/qanet) |
-| 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | NAACL | Google AI Language  | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG | [paper](https://www.aclweb.org/anthology/N19-1423) | [code](https://github.com/google-research/bert) |
+| 2015 | Teaching Machines to Read and Comprehend |  | NIPS | Google DeepMind, University of Oxford | CNN and Daily Mail |  | [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), code |
+| 2016 | Text Understanding with the Attention Sum Reader Network |  | ACL | IBM Watson | Children’s Book Test, CNN and Daily Mail |  | [paper](https://www.aclweb.org/anthology/P16-1086), [code](https://github.com/rkadlec/asreader) |
+| 2016 | Key-Value Memory Networks for Directly Reading Documents |  | EMNLP | Facebook AI Research, CMU | WikiMovies, WikiQA  |  | [paper](https://aclweb.org/anthology/D16-1147), [code](https://github.com/facebook/MemNN/tree/master/KVmemnn) |
+| 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | University of Washington, Allen Institute | SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1611.01603.pdf), [code](https://github.com/allenai/bi-att-flow) |
+| 2017 | Machine Comprehension Using Match-LSTM and Answer Pointer |  | ICLR | Singapore Management University | SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1608.07905.pdf), [code](https://github.com/shuohangwang/SeqMatchSeq) |
+| 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | Technical Report | Microsoft Research Asia  | SQuAD 1.1, MS-MARCO |  | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) |
+| 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA | ACL | Danqi Chen et al.,  | SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies |  | [paper](https://www.aclweb.org/anthology/P17-1171), [code](https://github.com/facebookresearch/DrQA) |
+| 2017 | Gated-Attention Readers for Text Comprehension |  | ACL | CMU  | CNN and Daily Mail, Children’s Book Test, Who Did What |  | [paper](https://arxiv.org/pdf/1606.01549.pdf), [code](https://github.com/bdhingra/ga-reader) |
+| 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD 1.1 |  | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) |
+| 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | NAACL | Google AI Language  | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG |  | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) |
 
 
 
