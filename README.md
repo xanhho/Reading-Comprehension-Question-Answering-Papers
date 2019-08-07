@@ -25,14 +25,14 @@ Question-Answer Relationship strategy, [link](https://www.aclweb.org/anthology/P
 
 
 ### Papers/Models
-| Year | Title | Model| Conference | Author/Team | Datasets | Link                                                                  | Source Code |
+| Year | Title | Model| Conference | Author/Team | Datasets | Misc                                                                  | Paper, Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2015 | Teaching Machines to Read and Comprehend |  | NIPS | Google DeepMind, University of Oxford | CNN and Daily Mail | [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf) | code |
-| 2016 | Text Understanding with the Attention Sum Reader Network |  | ACL | IBM Watson | Children’s Book Test, CNN and Daily Mail | [paper](https://www.aclweb.org/anthology/P16-1086) | [code](https://github.com/rkadlec/asreader) |
-| 2016 | Key-Value Memory Networks for Directly Reading Documents |  | EMNLP | Facebook AI Research, CMU | WikiMovies, WikiQA  | [paper](https://aclweb.org/anthology/D16-1147) | [code](https://github.com/facebook/MemNN/tree/master/KVmemnn) |
-| 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | University of Washington, Allen Institute | SQuAD 1.1 | [paper](https://arxiv.org/pdf/1611.01603.pdf) | [code](https://github.com/allenai/bi-att-flow) |
-| 2017 | Machine Comprehension Using Match-LSTM and Answer Pointer |  | ICLR | Singapore Management University | SQuAD 1.1 | [paper](https://arxiv.org/pdf/1608.07905.pdf) | [code](https://github.com/shuohangwang/SeqMatchSeq) |
-| 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | Technical Report | Microsoft Research Asia  | SQuAD 1.1, MS-MARCO | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) | [code](https://github.com/HKUST-KnowComp/R-Net) |
+| 2015 | Teaching Machines to Read and Comprehend |  | NIPS | Google DeepMind, University of Oxford | CNN and Daily Mail | [ |paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), code |
+| 2016 | Text Understanding with the Attention Sum Reader Network |  | ACL | IBM Watson | Children’s Book Test, CNN and Daily Mail |  |[paper](https://www.aclweb.org/anthology/P16-1086), [code](https://github.com/rkadlec/asreader) |
+| 2016 | Key-Value Memory Networks for Directly Reading Documents |  | EMNLP | Facebook AI Research, CMU | WikiMovies, WikiQA  |  |[paper](https://aclweb.org/anthology/D16-1147), [code](https://github.com/facebook/MemNN/tree/master/KVmemnn) |
+| 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | University of Washington, Allen Institute | SQuAD 1.1 |  |[paper](https://arxiv.org/pdf/1611.01603.pdf), [code](https://github.com/allenai/bi-att-flow) |
+| 2017 | Machine Comprehension Using Match-LSTM and Answer Pointer |  | ICLR | Singapore Management University | SQuAD 1.1 |  |[paper](https://arxiv.org/pdf/1608.07905.pdf), [code](https://github.com/shuohangwang/SeqMatchSeq) |
+| 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | Technical Report | Microsoft Research Asia  | SQuAD 1.1, MS-MARCO |  |[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) |
 | 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA | ACL | Danqi Chen et al.,  | SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | [paper](https://www.aclweb.org/anthology/P17-1171) | [code](https://github.com/facebookresearch/DrQA) |
 | 2017 | Gated-Attention Readers for Text Comprehension |  | ACL | CMU  | CNN and Daily Mail, Children’s Book Test, Who Did What | [paper](https://arxiv.org/pdf/1606.01549.pdf) | [code](https://github.com/bdhingra/ga-reader) |
 | 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD 1.1 | [paper](https://openreview.net/pdf?id=B14TlG-RW) | [code](https://github.com/google-research/google-research/tree/master/qanet) |
