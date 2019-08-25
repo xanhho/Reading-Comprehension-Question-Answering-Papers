@@ -1,3 +1,20 @@
+## New Papers from EMNLP 2019 about MRC
+- Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning**, [link](https://arxiv.org/pdf/1908.05514.pdf).
+- Huazheng Wang, Zhe Gan, Xiaodong Liu, Jingjing Liu, Jianfeng Gao and Hongning Wang, **Adversarial Domain Adaptation for Machine Reading Comprehension**, [link?]().
+- Yimin Jing, Deyi Xiong and Zhen Yan, **BiPaR: A Bilingual Parallel Dataset for Multilingual and Cross-lingual Reading Comprehension on Novels**, [link?]().
+- Lifu Huang, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi, **Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning**, [link?]().
+- Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu, **Cross-Lingual Machine Reading Comprehension**, [link?]().
+- Todor Mihaylov and Anette Frank, **Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension**, [link?]().
+- Kyungjae Lee, Sunghyun Park, Hojae Han, Jinyoung Yeo, Seung-won Hwang and Juho Lee, **Learning with Limited Data for Multilingual Reading Comprehension**, [link?]().
+- Qiu Ran, Yankai Lin, Peng Li, Jie Zhou and Zhiyuan Liu, **NumNet: Machine Reading Comprehension with Numerical Reasoning**, [link?]().
+- Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang and Guoping Hu, **A Span-Extraction Dataset for Chinese Machine Reading Comprehension**, [link?]().
+- Daniel Andor, Luheng He, Kenton Lee and Emily Pitler, **Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension**, [link?]().
+- Delai Qiu, Yuanzhe Zhang, Xinwei Feng, Xiangwen Liao, Wenbin Jiang, Yajuan Lyu, Kang Liu and Jun Zhao, **Machine Reading Comprehension Using Structural Knowledge Graph-aware Network**, [link?]().
+- Pradeep Dasigi, Nelson F. Liu, Ana Marasovic, Noah A. Smith and Matt Gardner, **Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning**, [link?]().
+- Tsung-Yuan Hsu, Chi-Liang Liu and Hung-yi Lee, **Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model**, [link?]().
+
+
+
 ## New Papers from ACL 2019 about MRC
 - Yimeng Zhuang and Huadong Wang, **Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1218).
 - Chao Wang and Hui Jiang, **Explicit Utilization of General Knowledge in Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1219).
