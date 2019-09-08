@@ -37,6 +37,7 @@
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
 - Danqi Chen: **Neural Reading Comprehension and Beyond**. PhD thesis, Stanford University, 2018, [link](https://github.com/danqi/thesis).
 - Boyu Qiu et al., **A Survey on Neural Machine Reading Comprehension**, arXiv, 2019, [link](https://arxiv.org/pdf/1906.03824.pdf).
+- Xin Zhang et al., **Machine Reading Comprehension: a Literature Review**, arXiv, 2019, [link](https://arxiv.org/pdf/1907.01686.pdf).
 - Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [link](https://arxiv.org/pdf/1907.01118.pdf).
 
 
