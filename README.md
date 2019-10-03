@@ -41,6 +41,10 @@
 - Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [link](https://arxiv.org/pdf/1907.01118.pdf).
 
 
+## Evaluation papers
+- Saku Sugawara et al., **Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability**, ACL, 2017, [link](https://www.aclweb.org/anthology/P17-1075.pdf).
+
+
 ## Papers/Models
 
 **Noted**
