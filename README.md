@@ -51,6 +51,7 @@
 
 - KBMRC: Knowledge-based Machine Reading Comprehension
 - OPQA: Open-domain Question Answering
+- UQ: Unanswerable Questions
 
 | Year | Title | Model| Conference | Author/Team | Datasets | Misc                                                                  | Paper, Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -64,8 +65,15 @@
 | 2017 | Gated-Attention Readers for Text Comprehension |  | ACL | CMU  | CNN and Daily Mail, Children’s Book Test, Who Did What |  | [paper](https://arxiv.org/pdf/1606.01549.pdf), [code](https://github.com/bdhingra/ga-reader) |
 | 2017 | Leveraging Knowledge Bases in LSTMs for Improving Machine Reading |  | ACL | CMU |  | KBMRC | [paper](https://www.aclweb.org/anthology/P17-1132) |
 | 2017 | World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions |  | EMNLP | McGill University |  | KBMRC | [paper](https://www.aclweb.org/anthology/D17-1086) |
+| 2017 | Zero-Shot Relation Extraction via Reading Comprehension |  | CoNLL | University of Washington + Allen Institute |  | UQ | [paper](https://www.aclweb.org/anthology/K17-1034.pdf) |
 | 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD 1.1 |  | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) |
 | 2018 | Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge |  | ACL | Heidelberg University |  | KBMRC | [paper](https://www.aclweb.org/anthology/P18-1076) |
+| 2018 | I Know There Is No Answer: Modeling Answer Validation for Machine Reading Comprehension
+ |  | NLPCC |  |  | UQ | [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-99495-6_8) |
+| 2018 | Read + Verify: Machine Reading Comprehension with Unanswerable Questions
+ |  | AAAI | NUDT + Microsoft Research Asia |  | UQ | [paper](https://arxiv.org/pdf/1808.05759.pdf) |
+| 2018 | U-Net: Machine Reading Comprehension with Unanswerable Questions
+ |  | Arxiv | Fudan University + Liulishuo |  | UQ | [paper](https://arxiv.org/pdf/1810.06638.pdf) |
 | 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | NAACL | Google AI Language  | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG |  | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) |
 | 2019 | Knowledge Based Machine Reading Comprehension |  |  | Harbin Institute, MRA, ...  |  | KBMRC | [paper](https://arxiv.org/pdf/1809.04267.pdf) |
 | 2019 | Explicit Utilization of General Knowledge in Machine Reading Comprehension |  |  | York University |  | KBMRC | [paper](https://arxiv.org/pdf/1809.03449.pdf) |
