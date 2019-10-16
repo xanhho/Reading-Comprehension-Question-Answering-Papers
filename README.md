@@ -27,8 +27,10 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2015 | Teaching Machines to Read and Comprehend | Attentive Reader | NIPS | Google DeepMind, University of Oxford | CNN and Daily Mail |  | [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), code |
 | 2016 | Text Understanding with the Attention Sum Reader Network | Attention Sum Reader | ACL | IBM Watson | Children’s Book Test, CNN and Daily Mail |  | [paper](https://www.aclweb.org/anthology/P16-1086), [code](https://github.com/rkadlec/asreader) |
+| 2016 | Key-Value Memory Networks for Directly Reading Documents | Memory Networks |  |  | WikiMovies, WikiQA |  | [paper](https://aclweb.org/anthology/D16-1147/), [code](https://github.com/facebook/MemNN/tree/master/KVmemnn) |
+| 2016 | Modeling Human Reading with Neural Attention |  | EMNLP | University of Edinburgh |  |  | [paper](https://www.aclweb.org/anthology/D16-1009.pdf), [code] |
 | 2016 | Iterative Alternating Neural Attention for Machine Reading | Iterative Attention Reader | Arxiv | Maluuba Research + gUniversity of Montreal |  |  | [paper](https://arxiv.org/pdf/1606.02245.pdf), [code]|
-| 2016 | Long Short-Term Memory-Networks for Machine Reading | Memory Networks | EMNLP | University of Edinburgh |  |  | [paper](https://www.aclweb.org/anthology/D16-1053.pdf), [code] |
+| 2016 | Long Short-Term Memory-Networks for Machine Reading |  | EMNLP | University of Edinburgh |  |  | [paper](https://www.aclweb.org/anthology/D16-1053.pdf), [code] |
 | 2016 | A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task |  | ACL | Danqi Chen et al., |  |  | [paper](https://www.aclweb.org/anthology/P16-1223.pdf), [code] |
 | 2016 | Multi-Perspective Context Matching for Machine Comprehension | Multi-Perspective Context Matching | Arxiv | IBM Watson Research |  |  | [paper](https://arxiv.org/pdf/1612.04211.pdf), [code] |
 | 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | University of Washington, Allen Institute | SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1611.01603.pdf), [code](https://github.com/allenai/bi-att-flow) |
@@ -36,10 +38,12 @@
 | 2017 | Attention-over-Attention Neural Networks for Reading Comprehension | Attention-over-Attention Reader | ACL | Yiming Cui et al., |  |  | [paper](https://www.aclweb.org/anthology/P17-1055.pdf), [code]|
 | 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | Technical Report | Microsoft Research Asia  | SQuAD 1.1, MS-MARCO |  | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) |
 | 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA | ACL | Danqi Chen et al.,  | Wikipedia, SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | OPQA, Multi-Passage MRC | [paper](https://www.aclweb.org/anthology/P17-1171), [code](https://github.com/facebookresearch/DrQA) |
+| 2017 | Gated Self-Matching Networks for Reading Comprehension and Question Answering |  | ACL | Microsoft Research |  |  | [paper](https://www.aclweb.org/anthology/P17-1018.pdf), [code] |
 | 2017 | Gated-Attention Readers for Text Comprehension | Gated-attention Reader | ACL | CMU  | CNN and Daily Mail, Children’s Book Test, Who Did What |  | [paper](https://arxiv.org/pdf/1606.01549.pdf), [code](https://github.com/bdhingra/ga-reader) |
 | 2017 | DCN+: Mixed Objective and Deep Residual CoAttention for Question Answering |  | Arxiv | Salesforce Research |  |  | [paper](https://arxiv.org/pdf/1711.00106.pdf), [code] |
 | 2017 | Dynamic CoAttention Networks for Question Answering | Dynamic coattention networks | ICLR | Salesforce Research |  |  | [paper](https://arxiv.org/pdf/1611.01604.pdf), [code] |
 | 2017 | ReasoNet: Learning to Stop Reading in Machine Comprehension | ReasoNet | KDD | Microsoft Research |  |  | [paper](https://arxiv.org/pdf/1609.05284.pdf), [code] |
+| 2018 | S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension | S-NET | AAAI | Microsoft Research  |  |  | [paper](https://arxiv.org/pdf/1706.04815.pdf), [code]|
 | 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD 1.1 |  | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) |
 | 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | NAACL | Google AI Language  | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG |  | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) |
 |  |  |  |  |  |  |  | [paper]() |
