@@ -121,6 +121,19 @@
 | 2018 | DuReader |  |  |  |  | Free answering |  |  |
 
 
+## Knowledge Bases/Knowledge Sources
+- Wikipedia
+- Freebase
+- DBPedia
+
+## Question Answering Systems
+- IBM's DeepQA
+- QuASE
+- Microsoft's AskMSR
+- YodaQA
+- DrQA
+
+
 ## Thanks to these repositories:
 - https://github.com/penzant/nlu_datasets_2018
 - https://github.com/seriousmac/awesome-qa
