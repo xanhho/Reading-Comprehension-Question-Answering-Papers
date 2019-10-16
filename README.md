@@ -1,39 +1,3 @@
-## New Papers from EMNLP 2019 about MRC
-- Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning**, [link](https://arxiv.org/pdf/1908.05514.pdf).
-- Huazheng Wang, Zhe Gan, Xiaodong Liu, Jingjing Liu, Jianfeng Gao and Hongning Wang, **Adversarial Domain Adaptation for Machine Reading Comprehension**, [link?]().
-- Yimin Jing, Deyi Xiong and Zhen Yan, **BiPaR: A Bilingual Parallel Dataset for Multilingual and Cross-lingual Reading Comprehension on Novels**, [link?]().
-- Lifu Huang, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi, **Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning**, [link?]().
-- Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu, **Cross-Lingual Machine Reading Comprehension**, [link?]().
-- Todor Mihaylov and Anette Frank, **Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension**, [link?]().
-- Kyungjae Lee, Sunghyun Park, Hojae Han, Jinyoung Yeo, Seung-won Hwang and Juho Lee, **Learning with Limited Data for Multilingual Reading Comprehension**, [link?]().
-- Qiu Ran, Yankai Lin, Peng Li, Jie Zhou and Zhiyuan Liu, **NumNet: Machine Reading Comprehension with Numerical Reasoning**, [link?]().
-- Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang and Guoping Hu, **A Span-Extraction Dataset for Chinese Machine Reading Comprehension**, [link?]().
-- Daniel Andor, Luheng He, Kenton Lee and Emily Pitler, **Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension**, [link?]().
-- Delai Qiu, Yuanzhe Zhang, Xinwei Feng, Xiangwen Liao, Wenbin Jiang, Yajuan Lyu, Kang Liu and Jun Zhao, **Machine Reading Comprehension Using Structural Knowledge Graph-aware Network**, [link?]().
-- Pradeep Dasigi, Nelson F. Liu, Ana Marasovic, Noah A. Smith and Matt Gardner, **Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning**, [link?]().
-- Tsung-Yuan Hsu, Chi-Liang Liu and Hung-yi Lee, **Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model**, [link?]().
-
-
-
-## New Papers from ACL 2019 about MRC
-- Yimeng Zhuang and Huadong Wang, **Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1218).
-- Chao Wang and Hui Jiang, **Explicit Utilization of General Knowledge in Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1219).
-- Kyosuke Nishida et al., **Multi-style Generative Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1220).
-- Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, **Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1221).
-- Ming Ding et al., **Cognitive Graph for Multi-Hop Reading Comprehension at Scale**, [link](https://www.aclweb.org/anthology/P19-1259).
-- Ming Tu et al., **Multi-hop reading comprehension across multiple documents by reasoning over heterogeneous graphs**, [link](https://www.aclweb.org/anthology/P19-1260).
-- An Yang et al., **Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1226).
-- Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1485).
-- Yichen Jiang el at., **Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension**, [link](https://arxiv.org/pdf/1906.05210.pdf).
-- Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, [link](https://www.aclweb.org/anthology/P19-1486).
-- Sewon Min et al., **Multi-hop Reading Comprehension through Question Decomposition and Rescoring**, [link](https://www.aclweb.org/anthology/P19-1613).
-- Souvik Kundu et al., **Exploiting Explicit Paths for Multi-hop Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1263).
-- Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1415).
-- Xuanyu Zhang, **MC^2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1622).
-- Diana Galvan, **Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy**, [link](https://www.aclweb.org/anthology/P19-2014).
-
-
-
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
 - Danqi Chen: **Neural Reading Comprehension and Beyond**. PhD thesis, Stanford University, 2018, [link](https://github.com/danqi/thesis).
 - Boyu Qiu et al., **A Survey on Neural Machine Reading Comprehension**, arXiv, 2019, [link](https://arxiv.org/pdf/1906.03824.pdf).
@@ -70,7 +34,8 @@
 | 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | Technical Report | Microsoft Research Asia  | SQuAD 1.1, MS-MARCO |  | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) |
 | 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA | ACL | Danqi Chen et al.,  | Wikipedia, SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | OPQA, Multi-Passage MRC | [paper](https://www.aclweb.org/anthology/P17-1171), [code](https://github.com/facebookresearch/DrQA) |
 | 2017 | Gated-Attention Readers for Text Comprehension |  | ACL | CMU  | CNN and Daily Mail, Children’s Book Test, Who Did What |  | [paper](https://arxiv.org/pdf/1606.01549.pdf), [code](https://github.com/bdhingra/ga-reader) |
-| 2017 | DCN+: Mixed Objective and Deep Residual Coattention for Question Answering | BiDAF | Arxiv | Salesforce Research |  |  | [paper](https://arxiv.org/pdf/1711.00106.pdf), [code] |
+| 2017 | DCN+: Mixed Objective and Deep Residual CoAttention for Question Answering |  | Arxiv | Salesforce Research |  |  | [paper](https://arxiv.org/pdf/1711.00106.pdf), [code] |
+| 2017 | Dynamic CoAttention Networks for Question Answering | Dynamic coattention networks | ICLR | Salesforce Research |  |  | [paper](https://arxiv.org/pdf/1611.01604.pdf), [code] |
 | 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD 1.1 |  | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) |
 | 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | NAACL | Google AI Language  | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG |  | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) |
 |  |  |  |  |  |  |  | [paper]() |
@@ -131,6 +96,41 @@
 - Microsoft's AskMSR
 - YodaQA
 - DrQA
+
+
+## New Papers from EMNLP 2019 about MRC
+- Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning**, [link](https://arxiv.org/pdf/1908.05514.pdf).
+- Huazheng Wang, Zhe Gan, Xiaodong Liu, Jingjing Liu, Jianfeng Gao and Hongning Wang, **Adversarial Domain Adaptation for Machine Reading Comprehension**, [link?]().
+- Yimin Jing, Deyi Xiong and Zhen Yan, **BiPaR: A Bilingual Parallel Dataset for Multilingual and Cross-lingual Reading Comprehension on Novels**, [link?]().
+- Lifu Huang, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi, **Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning**, [link?]().
+- Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu, **Cross-Lingual Machine Reading Comprehension**, [link?]().
+- Todor Mihaylov and Anette Frank, **Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension**, [link?]().
+- Kyungjae Lee, Sunghyun Park, Hojae Han, Jinyoung Yeo, Seung-won Hwang and Juho Lee, **Learning with Limited Data for Multilingual Reading Comprehension**, [link?]().
+- Qiu Ran, Yankai Lin, Peng Li, Jie Zhou and Zhiyuan Liu, **NumNet: Machine Reading Comprehension with Numerical Reasoning**, [link?]().
+- Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang and Guoping Hu, **A Span-Extraction Dataset for Chinese Machine Reading Comprehension**, [link?]().
+- Daniel Andor, Luheng He, Kenton Lee and Emily Pitler, **Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension**, [link?]().
+- Delai Qiu, Yuanzhe Zhang, Xinwei Feng, Xiangwen Liao, Wenbin Jiang, Yajuan Lyu, Kang Liu and Jun Zhao, **Machine Reading Comprehension Using Structural Knowledge Graph-aware Network**, [link?]().
+- Pradeep Dasigi, Nelson F. Liu, Ana Marasovic, Noah A. Smith and Matt Gardner, **Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning**, [link?]().
+- Tsung-Yuan Hsu, Chi-Liang Liu and Hung-yi Lee, **Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model**, [link?]().
+
+
+
+## New Papers from ACL 2019 about MRC
+- Yimeng Zhuang and Huadong Wang, **Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1218).
+- Chao Wang and Hui Jiang, **Explicit Utilization of General Knowledge in Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1219).
+- Kyosuke Nishida et al., **Multi-style Generative Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1220).
+- Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, **Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1221).
+- Ming Ding et al., **Cognitive Graph for Multi-Hop Reading Comprehension at Scale**, [link](https://www.aclweb.org/anthology/P19-1259).
+- Ming Tu et al., **Multi-hop reading comprehension across multiple documents by reasoning over heterogeneous graphs**, [link](https://www.aclweb.org/anthology/P19-1260).
+- An Yang et al., **Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1226).
+- Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1485).
+- Yichen Jiang el at., **Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension**, [link](https://arxiv.org/pdf/1906.05210.pdf).
+- Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, [link](https://www.aclweb.org/anthology/P19-1486).
+- Sewon Min et al., **Multi-hop Reading Comprehension through Question Decomposition and Rescoring**, [link](https://www.aclweb.org/anthology/P19-1613).
+- Souvik Kundu et al., **Exploiting Explicit Paths for Multi-hop Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1263).
+- Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1415).
+- Xuanyu Zhang, **MC^2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1622).
+- Diana Galvan, **Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy**, [link](https://www.aclweb.org/anthology/P19-2014).
 
 
 ## Thanks to these repositories:
