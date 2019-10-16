@@ -95,7 +95,7 @@
 |2016|Who-did-What||||[paper](https://tticnlp.github.io/who_did_what/)| Cloze test |  | |
 |2016|MS MARCO||||[web](http://www.msmarco.org/dataset.aspx)| Free answering |  |  |
 |2016|NewsQA||||[paper](https://datasets.maluuba.com/NewsQA)| Span extraction |  |  |
-|2016|SQuAD 1.1| RC |  | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction |  | NewsQA |
+|2016|SQuAD 1.1| RC | 87k training + 10k development | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction |  | NewsQA |
 |2017|TriviaQA||||[paper](http://nlp.cs.washington.edu/triviaqa/)| Span extraction | | |
 |2017|RACE||||[paper](http://www.cs.cmu.edu/~glai1/data/race/)| Multiple choice |  | |
 |2017|SQA||||[paper](https://people.cs.umass.edu/~miyyer/pubs/2017_acl_dynsp.pdf)|  |  | |
