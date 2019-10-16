@@ -67,11 +67,7 @@
 | 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net | Technical Report | Microsoft Research Asia  | SQuAD 1.1, MS-MARCO |  | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) |
 | 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA | ACL | Danqi Chen et al.,  | Wikipedia, SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | OPQA, Multi-Passage MRC | [paper](https://www.aclweb.org/anthology/P17-1171), [code](https://github.com/facebookresearch/DrQA) |
 | 2017 | Gated-Attention Readers for Text Comprehension |  | ACL | CMU  | CNN and Daily Mail, Children’s Book Test, Who Did What |  | [paper](https://arxiv.org/pdf/1606.01549.pdf), [code](https://github.com/bdhingra/ga-reader) |
-| 2017 | Zero-Shot Relation Extraction via Reading Comprehension |  | CoNLL | University of Washington + Allen Institute |  | UQ | [paper](https://www.aclweb.org/anthology/K17-1034.pdf) |
 | 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD 1.1 |  | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) |
-| 2018 | I Know There Is No Answer: Modeling Answer Validation for Machine Reading Comprehension|  | NLPCC |  |  | UQ | [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-99495-6_8) |
-| 2018 | Read + Verify: Machine Reading Comprehension with Unanswerable Questions|  | AAAI | NUDT + Microsoft Research Asia |  | UQ | [paper](https://arxiv.org/pdf/1808.05759.pdf) |
-| 2018 | U-Net: Machine Reading Comprehension with Unanswerable Questions|  | Arxiv | Fudan University + Liulishuo |  | UQ | [paper](https://arxiv.org/pdf/1810.06638.pdf) |
 | 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | NAACL | Google AI Language  | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG |  | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) |
 |  |  |  |  |  |  |  | [paper]() |
 
