@@ -39,6 +39,7 @@
 | 2017 | Gated-Attention Readers for Text Comprehension | Gated-attention Reader | ACL | CMU  | CNN and Daily Mail, Children’s Book Test, Who Did What |  | [paper](https://arxiv.org/pdf/1606.01549.pdf), [code](https://github.com/bdhingra/ga-reader) |
 | 2017 | DCN+: Mixed Objective and Deep Residual CoAttention for Question Answering |  | Arxiv | Salesforce Research |  |  | [paper](https://arxiv.org/pdf/1711.00106.pdf), [code] |
 | 2017 | Dynamic CoAttention Networks for Question Answering | Dynamic coattention networks | ICLR | Salesforce Research |  |  | [paper](https://arxiv.org/pdf/1611.01604.pdf), [code] |
+| 2017 | ReasoNet: Learning to Stop Reading in Machine Comprehension | ReasoNet | KDD | Microsoft Research |  |  | [paper](https://arxiv.org/pdf/1609.05284.pdf), [code] |
 | 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet | ICLR | CMU, Google Brain  | SQuAD 1.1 |  | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) |
 | 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | NAACL | Google AI Language  | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG |  | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) |
 |  |  |  |  |  |  |  | [paper]() |
