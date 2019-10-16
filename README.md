@@ -57,6 +57,7 @@
 - Multi-Passage MRC: Multi-Passage Machine Reading Comprehension
   * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Multi-Passage-MRC
 - CQA: Conversational Question Answering
+  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/CQA
 
 | Year | Title | Model| Conference | Author/Team | Datasets | Misc                                                                  | Paper, Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
