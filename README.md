@@ -103,14 +103,11 @@
 |2017|SearchQA||||[paper](https://arxiv.org/pdf/1704.05179.pdf)| Free answering |  | |
 |2017|WikiSuggest||||[paper](https://aclweb.org/anthology/D15-1237)|  |  | |
 |2018|MultiRC| RC | 6k+ questions | various articles | [web](https://cogcomp.seas.upenn.edu/multirc/), [paper](https://www.aclweb.org/anthology/N18-1023)| Multiple choice  | multiple sentence reasoning | MCTest |
-|2018|CSQA| QA |200k dialogs, 1.6M turns ||[paper](https://arxiv.org/pdf/1801.10314.pdf)|  |  |  |
 |2018|CQA||||[paper](http://aclweb.org/anthology/N18-1059)|  |  | |
 |2018|SQuAD 2.0| RC | 150k | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction | no answer: 50k | NewsQA |
 |2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| Free answering | conversational questions | QuAC |
 |2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)| Span extraction | conversational questions | CoQA |
 |2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| Span extraction | multi-hop reasoning | QAngaroo |
-| 2018 | SWAG | QA | 113k | video caption |  | Multiple choice | situational commonsense reasoning |  |
-| 2018 | OpenBookQA | QA | 6k | science facts |  | Multiple choice  | external knowledge | ARC |
 | 2018 | RecipeQA | RC | 36k | various |  |  | multimodal comprehension |  |
 | 2018 | CLOTH | RC | 99k | English exams |  | Cloze test |  | RACE |
 | 2018 | DuoRC | RC | 186k | movie plot |  | Span extraction |  | NarrativeQA  |
@@ -119,7 +116,12 @@
 | 2018 | ProPara | RC | 2k | procedural text |  |  |  | bAbI, SCoNE |
 | 2018 | ARC | RC | 8k | science exam |  |  | easy 5197, challenge 2590 | |
 | 2018 | DuReader |  |  |  |  | Free answering |  |  |
-
+| 2013 | WebQuestions | QA |  |  |  | |  |  |
+| 2015 | CuratedTREC | QA |  |  |  | |  |  |
+| 2016 | WikiMovies | QA |  |  |  | |  |  |
+| 2018 | OpenBookQA | QA | 6k | science facts |  | Multiple choice  | external knowledge | ARC |
+| 2018 | SWAG | QA | 113k | video caption |  | Multiple choice | situational commonsense reasoning |  |
+|2018|CSQA| QA |200k dialogs, 1.6M turns ||[paper](https://arxiv.org/pdf/1801.10314.pdf)|  |  |  |
 
 ## Knowledge Bases/Knowledge Sources
 - Wikipedia
