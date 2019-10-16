@@ -25,8 +25,9 @@
 
 | Year | Title | Model| Conference | Author/Team | Datasets | Misc                                                                  | Paper, Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2015 | Teaching Machines to Read and Comprehend |  | NIPS | Google DeepMind, University of Oxford | CNN and Daily Mail |  | [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), code |
+| 2015 | Teaching Machines to Read and Comprehend | Attentive Reader | NIPS | Google DeepMind, University of Oxford | CNN and Daily Mail |  | [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), code |
 | 2016 | Text Understanding with the Attention Sum Reader Network |  | ACL | IBM Watson | Children’s Book Test, CNN and Daily Mail |  | [paper](https://www.aclweb.org/anthology/P16-1086), [code](https://github.com/rkadlec/asreader) |
+| 2016 | Long Short-Term Memory-Networks for Machine Reading | Memory Networks | EMNLP | University of Edinburgh |  |  | [paper](https://www.aclweb.org/anthology/D16-1053.pdf), [code] |
 | 2016 | A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task |  | ACL | Danqi Chen et al., |  |  | [paper](https://www.aclweb.org/anthology/P16-1223.pdf), [code] |
 | 2016 | Multi-Perspective Context Matching for Machine Comprehension | Multi-Perspective Context Matching | Arxiv | IBM Watson Research |  |  | [paper](https://arxiv.org/pdf/1612.04211.pdf), [code] |
 | 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | ICLR | University of Washington, Allen Institute | SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1611.01603.pdf), [code](https://github.com/allenai/bi-att-flow) |
