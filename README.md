@@ -51,14 +51,18 @@
 
 
 ## Datasets
-- Following Danqi Chen, we have four answer types: Cloze test, Multiple choice, Span extraction and Free answering.
+- Following Danqi Chen, we have four answer types: 
+  * Cloze test
+  * Multiple choice
+  * Span extraction
+  * Free answering
 
 | Year | Dataset | Task | Size | Source | Web/Paper | Answer type                                                                  | Misc | Similar datasets |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1999|DeepRead| RC | 60 development and 60 test? | news stories|[paper](https://dl.acm.org/citation.cfm?id=1034678.1034731)| Free answering |  |  |
 |2013|QA4MRE| RC | | various articles |[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)| Multiple choice |  | |
 |2013|MCTest| RC | 500 stories + 2k questions | fictional stories |[paper](http://aclweb.org/anthology/D13-1020)| Multiple choice | open-domain  |  |
-|2015|CNN and Daily Mail| RC | 93k + 220k articles| CNN + Daily Mail |[paper](https://cs.nyu.edu/~kcho/DMQA/)| Cloze test |  |  |
+|2015|CNN and Daily Mail| RC | 93k + 220k articles| CNN + Daily Mail |[paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf) [web](https://cs.nyu.edu/~kcho/DMQA/)| Cloze test |  |  |
 |2015|bAbI| RC | | classic text adventure game |[web](https://research.fb.com/downloads/babi/)| Free answering | 20 tasks |  |
 |2015|Children's Book Test| RC | 108 children's books | |[web](https://research.fb.com/downloads/babi/)| Cloze test |  | |
 |2016|LAMBADA||||[paper](http://clic.cimec.unitn.it/lambada/)| Cloze test |  | |
