@@ -29,8 +29,7 @@
 | 2016 | Text Understanding with the Attention Sum Reader Network | Attention Sum Reader | Children’s Book Test, CNN and Daily Mail |  | [paper](https://www.aclweb.org/anthology/P16-1086), [code](https://github.com/rkadlec/asreader) |
 | 2016 | Key-Value Memory Networks for Directly Reading Documents | Key-Value Memory Networks | WikiMovies, WikiQA |  | [paper](https://aclweb.org/anthology/D16-1147/), [code](https://github.com/facebook/MemNN/tree/master/KVmemnn) |
 | 2016 | Modeling Human Reading with Neural Attention |  |  |  | [paper](https://www.aclweb.org/anthology/D16-1009.pdf), [code] |
-| 2016 | Iterative Alternating Neural Attention for Machine Reading | Iterative Attention Reader | Children’s Book Test, 
-CNN and Daily Mail |  | [paper](https://arxiv.org/pdf/1606.02245.pdf), [code]|
+| 2016 | Iterative Alternating Neural Attention for Machine Reading | Iterative Attention Reader | Children’s Book Test, CNN and Daily Mail |  | [paper](https://arxiv.org/pdf/1606.02245.pdf), [code]|
 | 2016 | Long Short-Term Memory-Networks for Machine Reading |  |  |  | [paper](https://www.aclweb.org/anthology/D16-1053.pdf), [code] |
 | 2016 | A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task |  | CNN and Daily Mail |  | [paper](https://www.aclweb.org/anthology/P16-1223.pdf), [code] |
 | 2016 | Multi-Perspective Context Matching for Machine Comprehension | Multi-Perspective Context Matching | SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1612.04211.pdf), [code] |
