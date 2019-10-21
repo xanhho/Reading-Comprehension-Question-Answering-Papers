@@ -34,7 +34,7 @@
 | 2016 | A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task |  | CNN and Daily Mail |  | [paper](https://www.aclweb.org/anthology/P16-1223.pdf), [code] |
 | 2016 | Multi-Perspective Context Matching for Machine Comprehension | Multi-Perspective Context Matching | SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1612.04211.pdf), [code] |
 | 2017 | Bi-directional Attention Flow for Machine Comprehension | BiDAF | SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1611.01603.pdf), [code](https://github.com/allenai/bi-att-flow) |
-| 2017 | Machine Comprehension Using Match-LSTM and Answer Pointer | Match-LSTM | SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1608.07905.pdf), [code](https://github.com/shuohangwang/SeqMatchSeq) |
+| 2017 | Machine Comprehension Using Match-LSTM and Answer Pointer | Match-LSTM + Pointer Network| SQuAD 1.1 |  | [paper](https://arxiv.org/pdf/1608.07905.pdf), [code](https://github.com/shuohangwang/SeqMatchSeq) |
 | 2017 | Attention-over-Attention Neural Networks for Reading Comprehension | Attention-over-Attention Reader | Children’s Book Test, CNN and Daily Mail |  | [paper](https://www.aclweb.org/anthology/P17-1055.pdf), [code](https://github.com/OlavHN/attention-over-attention)|
 | 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks | R-Net |  SQuAD 1.1, MS-MARCO |  | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) |
 | 2017 | Reading Wikipedia to Answer Open-Domain Questions | DrQA |  Wikipedia, SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | OPQA, Multi-Passage MRC | [paper](https://www.aclweb.org/anthology/P17-1171), [code](https://github.com/facebookresearch/DrQA) |
