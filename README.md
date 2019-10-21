@@ -127,18 +127,11 @@
 
 
 ## New Papers from ACL 2019 about MRC
-- Yimeng Zhuang and Huadong Wang, **Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1218).
 - Chao Wang and Hui Jiang, **Explicit Utilization of General Knowledge in Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1219).
 - Kyosuke Nishida et al., **Multi-style Generative Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1220).
-- Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, **Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1221).
-- Ming Ding et al., **Cognitive Graph for Multi-Hop Reading Comprehension at Scale**, [link](https://www.aclweb.org/anthology/P19-1259).
-- Ming Tu et al., **Multi-hop reading comprehension across multiple documents by reasoning over heterogeneous graphs**, [link](https://www.aclweb.org/anthology/P19-1260).
 - An Yang et al., **Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1226).
 - Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1485).
-- Yichen Jiang el at., **Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension**, [link](https://arxiv.org/pdf/1906.05210.pdf).
 - Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, [link](https://www.aclweb.org/anthology/P19-1486).
-- Sewon Min et al., **Multi-hop Reading Comprehension through Question Decomposition and Rescoring**, [link](https://www.aclweb.org/anthology/P19-1613).
-- Souvik Kundu et al., **Exploiting Explicit Paths for Multi-hop Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1263).
 - Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1415).
 - Xuanyu Zhang, **MC^2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1622).
 - Diana Galvan, **Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy**, [link](https://www.aclweb.org/anthology/P19-2014).
