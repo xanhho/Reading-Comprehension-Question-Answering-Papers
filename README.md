@@ -46,7 +46,7 @@
 | 2018 | S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension | S-NET | MS-MARCO  | multiple passages | [paper](https://arxiv.org/pdf/1706.04815.pdf), [code]|
 | 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet |  SQuAD 1.1 |  | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) |
 | 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG |  | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) |
-|  |  |  |  |   | [paper] |
+| 2019 | XLNet: Generalized Autoregressive Pretraining for Language Understanding | XLNet | Race, SQuAD 1.1, SQuAD 2.0 |   | [paper](https://arxiv.org/pdf/1906.08237.pdf), [code](https://github.com/zihangdai/xlnet/) |
 
 
 
