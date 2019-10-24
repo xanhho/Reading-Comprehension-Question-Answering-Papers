@@ -17,6 +17,7 @@
 - KBMRC: Knowledge-based Machine Reading Comprehension
   * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Knowledge-based-MRC 
 - OPQA: Open-domain Question Answering
+  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Open-domain-Question-Answering
 - UQ: Unanswerable Questions
   * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Unanswerable-Questions
 - Multi-Passage MRC: Multi-Passage Machine Reading Comprehension
