@@ -8,6 +8,7 @@
 ## Evaluation papers
 - Saku Sugawara et al., **Prerequisite Skills for Reading Comprehension: Multi-perspective Analysis of MCTest Datasets and Systems**, AAAI, 2017, [link](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/14-Sugawara-14614.pdf).
 - Saku Sugawara et al., **Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability**, ACL, 2017, [link](https://www.aclweb.org/anthology/P17-1075.pdf).
+- Robin Jia and Percy Liang, **Adversarial Examples for Evaluating Reading Comprehension Systems**, EMNLP, 2017, [link](https://www.aclweb.org/anthology/D17-1215.pdf).
 
 
 ## Basic Papers/Models
