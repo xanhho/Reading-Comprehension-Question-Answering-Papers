@@ -102,7 +102,7 @@
 
 ## Knowledge Bases/Knowledge Sources
 - Wikipedia
-- Freebase
+- Freebase, [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.538.7139&rep=rep1&type=pdf)
 - DBPedia
 
 ## Question Answering Systems
