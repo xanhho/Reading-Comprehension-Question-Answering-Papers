@@ -11,7 +11,7 @@
 - Saku Sugawara et al., **Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability**, ACL, 2017, [link](https://www.aclweb.org/anthology/P17-1075.pdf).
 - Robin Jia and Percy Liang, **Adversarial Examples for Evaluating Reading Comprehension Systems**, EMNLP, 2017, [link](https://www.aclweb.org/anthology/D17-1215.pdf).
 - Saku Sugawara et al., **What Makes Reading Comprehension Questions Easier?**, EMNLP, 2018, [link](https://www.aclweb.org/anthology/D18-1453.pdf).
-
+- Diana Galvan, **Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy**, ACL, 2019, [link](https://www.aclweb.org/anthology/P19-2014).
 
 ## Basic Papers/Models
 
@@ -134,20 +134,14 @@
 
 
 
-## New Papers from ACL 2019 about MRC
-- Chao Wang and Hui Jiang, **Explicit Utilization of General Knowledge in Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1219).
-- Kyosuke Nishida et al., **Multi-style Generative Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1220).
-- An Yang et al., **Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1226).
-- Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1485).
-- Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, [link](https://www.aclweb.org/anthology/P19-1486).
-- Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1415).
-- Xuanyu Zhang, **MC^2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension**, [link](https://www.aclweb.org/anthology/P19-1622).
-- Diana Galvan, **Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy**, [link](https://www.aclweb.org/anthology/P19-2014).
-
-
-## Others
+## Others (Misc: Model, transfer learning, data augmentation, ...)
 - Michael Hahn and Frank Keller, **Modeling Human Reading with Neural Attention**, EMNLP 2016, [paper](https://www.aclweb.org/anthology/D16-1009.pdf).
 - Jianpeng Cheng et al., **Long Short-Term Memory-Networks for Machine Reading**, EMNLP 2016, [paper](https://www.aclweb.org/anthology/D16-1053.pdf).
+- Kyosuke Nishida et al., **Multi-style Generative Reading Comprehension**, ACL, 2019, [paper](https://www.aclweb.org/anthology/P19-1220).
+## New Papers from ACL 2019 about MRC
+- Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1485).
+- Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, ACL, 2019, [paper](https://www.aclweb.org/anthology/P19-1486).
+- Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, ACL, 2019, [paper](https://www.aclweb.org/anthology/P19-1415).
 
 
 ## Thanks to these repositories:
