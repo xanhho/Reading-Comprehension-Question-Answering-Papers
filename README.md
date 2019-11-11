@@ -84,7 +84,9 @@
 |2018|SQuAD 2.0| RC | 150k | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction | no answer: 50k | NewsQA |
 |2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| Free answering | conversational questions | QuAC |
 |2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)| Span extraction | conversational questions | CoQA |
-|2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| Span extraction | multi-hop reasoning | QAngaroo |
+|2018| ComplexWebQuestions | RC | 34,689 | WebQuestionsSP |[web](https://www.tau-nlp.org/compwebq), [paper](https://www.aclweb.org/anthology/N18-1059.pdf)| Span extraction? | multi-passage |  |
+|2018| QAngaroo (Wikihop + Medhop) | RC |  | Wikipedia + Medline |[web](https://qangaroo.cs.ucl.ac.uk/), [paper](https://transacl.org/ojs/index.php/tacl/article/viewFile/1325/299)| Multiple choice | multi-passage | HotpotQA |
+|2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| Span extraction | multi-passage | QAngaroo |
 | 2018 | RecipeQA | RC | 36k | various |  |  | multimodal comprehension |  |
 | 2018 | CLOTH | RC | 99k | English exams |  | Cloze test |  | RACE |
 | 2018 | DuoRC | RC | 186k | movie plot |  | Span extraction |  | NarrativeQA  |
@@ -99,6 +101,8 @@
 | 2018 | OpenBookQA | QA | 6k | science facts |  | Multiple choice  | external knowledge | ARC |
 | 2018 | SWAG | QA | 113k | video caption |  | Multiple choice | situational commonsense reasoning |  |
 |2018|CSQA| QA |200k dialogs, 1.6M turns ||[paper](https://arxiv.org/pdf/1801.10314.pdf)|  |  |  |
+|2019| RC-QED | RC | 12k | Wikipedia |[web](https://naoya-i.github.io/rc-qed/), [paper](https://arxiv.org/pdf/1910.04601.pdf)| Multiple choice  | multi-passage | HotpotQA |
+
 
 ## Knowledge Bases/Knowledge Sources
 - Wikipedia
