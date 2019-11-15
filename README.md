@@ -108,7 +108,7 @@
 
 
 ## Knowledge Bases/Knowledge Sources
-- Wikipedia
+- Wikidata, [web](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - Freebase, [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.538.7139&rep=rep1&type=pdf)
 - DBPedia
 
