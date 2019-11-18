@@ -16,7 +16,6 @@
 
 
 ## Basic Papers/Models
-
 **Noted**
 
 - KBMRC: Knowledge-based Machine Reading Comprehension
@@ -75,6 +74,16 @@
 |2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| Span extraction | multi-passage | QAngaroo |
 |2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| Free answering | conversational questions | QuAC |
 |2018| ComplexWebQuestions | RC | 34,689 | WebQuestionsSP |[web](https://www.tau-nlp.org/compwebq), [paper](https://www.aclweb.org/anthology/N18-1059.pdf)| Span extraction? | multi-passage |  |
+| 2018 | SWAG | QA | 113k | video caption |  | Multiple choice | situational commonsense reasoning |  |
+| 2018 | RecipeQA | RC | 36k | various |  |  | multimodal comprehension |  |
+| 2018 | ProPara | RC | 2k | procedural text |  |  |  | bAbI, SCoNE |
+| 2018 | OpenBookQA | QA | 6k | science facts |  | Multiple choice  | external knowledge | ARC |
+| 2018 | FEVER |  |  |  |  |  |  | |
+| 2018 | DuReader |  |  |  |  | Free answering |  |  |
+| 2018 | DuoRC | RC | 186k | movie plot |  | Span extraction |  | NarrativeQA  |
+| 2018 | CLOTH | RC | 99k | English exams |  | Cloze test |  | RACE |
+| 2018 | CliCR | RC | 100k | clinical case text |  | Cloze test |  |  |
+| 2018 | ARC | RC | 8k | science exam |  |  | easy 5197, challenge 2590 | |
 |2017|WikiSuggest||||[paper](https://aclweb.org/anthology/D15-1237)|  |  | |
 |2017|TriviaQA||||[paper](http://nlp.cs.washington.edu/triviaqa/)| Span extraction | | |
 |2017|SQA||||[paper](https://people.cs.umass.edu/~miyyer/pubs/2017_acl_dynsp.pdf)|  |  | |
@@ -86,75 +95,22 @@
 |2016|NewsQA||||[paper](https://datasets.maluuba.com/NewsQA)| Span extraction |  |  |
 |2016|MS MARCO||||[web](http://www.msmarco.org/dataset.aspx)| Free answering |  |  |
 |2016|LAMBADA||||[paper](http://clic.cimec.unitn.it/lambada/)| Cloze test |  | |
+| 2016 | WikiMovies | QA |  |  |  | |  |  |
+| 2015 | CuratedTREC | QA |  |  |  | |  |  |
 |2015|CNN and Daily Mail| RC | 93k + 220k articles| CNN + Daily Mail |[paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf) [web](https://cs.nyu.edu/~kcho/DMQA/)| Cloze test |  |  |
 |2015|Children's Book Test| RC | 108 children's books | |[web](https://research.fb.com/downloads/babi/)| Cloze test |  | |
 |2015|bAbI| RC | | classic text adventure game |[web](https://research.fb.com/downloads/babi/)| Free answering | 20 tasks |  |
+| 2013 | WebQuestions | QA |  |  |  | |  |  |
 |2013|QA4MRE| RC | | various articles |[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)| Multiple choice |  | |
 |2013|MCTest| RC | 500 stories + 2k questions | fictional stories |[paper](http://aclweb.org/anthology/D13-1020)| Multiple choice | open-domain  |  |
 |1999|DeepRead| RC | 60 development and 60 test? | news stories|[paper](https://dl.acm.org/citation.cfm?id=1034678.1034731)| Free answering |  |  |
-| 2018 | SWAG | QA | 113k | video caption |  | Multiple choice | situational commonsense reasoning |  |
-| 2018 | RecipeQA | RC | 36k | various |  |  | multimodal comprehension |  |
-| 2018 | ProPara | RC | 2k | procedural text |  |  |  | bAbI, SCoNE |
-| 2018 | OpenBookQA | QA | 6k | science facts |  | Multiple choice  | external knowledge | ARC |
-| 2018 | FEVER |  |  |  |  |  |  | |
-| 2018 | DuReader |  |  |  |  | Free answering |  |  |
-| 2018 | DuoRC | RC | 186k | movie plot |  | Span extraction |  | NarrativeQA  |
-| 2018 | CLOTH | RC | 99k | English exams |  | Cloze test |  | RACE |
-| 2018 | CliCR | RC | 100k | clinical case text |  | Cloze test |  |  |
-| 2018 | ARC | RC | 8k | science exam |  |  | easy 5197, challenge 2590 | |
-| 2016 | WikiMovies | QA |  |  |  | |  |  |
-| 2015 | CuratedTREC | QA |  |  |  | |  |  |
-| 2013 | WebQuestions | QA |  |  |  | |  |  |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1999|DeepRead| RC | 60 development and 60 test? | news stories|[paper](https://dl.acm.org/citation.cfm?id=1034678.1034731)| Free answering |  |  |
-|2013|QA4MRE| RC | | various articles |[paper](https://www.cs.cmu.edu/~hovy/papers/13CLEF-QA4MRE.pdf)| Multiple choice |  | |
-|2013|MCTest| RC | 500 stories + 2k questions | fictional stories |[paper](http://aclweb.org/anthology/D13-1020)| Multiple choice | open-domain  |  |
-|2015|CNN and Daily Mail| RC | 93k + 220k articles| CNN + Daily Mail |[paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf) [web](https://cs.nyu.edu/~kcho/DMQA/)| Cloze test |  |  |
-|2015|bAbI| RC | | classic text adventure game |[web](https://research.fb.com/downloads/babi/)| Free answering | 20 tasks |  |
-|2015|Children's Book Test| RC | 108 children's books | |[web](https://research.fb.com/downloads/babi/)| Cloze test |  | |
-|2016|LAMBADA||||[paper](http://clic.cimec.unitn.it/lambada/)| Cloze test |  | |
-|2016|Who-did-What||||[paper](https://tticnlp.github.io/who_did_what/)| Cloze test |  | |
-|2016|MS MARCO||||[web](http://www.msmarco.org/dataset.aspx)| Free answering |  |  |
-|2016|NewsQA||||[paper](https://datasets.maluuba.com/NewsQA)| Span extraction |  |  |
-|2016|SQuAD 1.1| RC | 87k training + 10k development | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction |  | NewsQA |
-|2017|TriviaQA||||[paper](http://nlp.cs.washington.edu/triviaqa/)| Span extraction | | |
-|2017|RACE||||[paper](http://www.cs.cmu.edu/~glai1/data/race/)| Multiple choice |  | |
-|2017|SQA||||[paper](https://people.cs.umass.edu/~miyyer/pubs/2017_acl_dynsp.pdf)|  |  | |
-|2017|NarrativeQA||||[paper](https://github.com/deepmind/narrativeqa)| Free answering |  |  |
-|2017|SearchQA||||[paper](https://arxiv.org/pdf/1704.05179.pdf)| Free answering |  | |
-|2017|WikiSuggest||||[paper](https://aclweb.org/anthology/D15-1237)|  |  | |
-|2018|MultiRC| RC | 6k+ questions | various articles | [web](https://cogcomp.seas.upenn.edu/multirc/), [paper](https://www.aclweb.org/anthology/N18-1023)| Multiple choice  | multiple sentence reasoning | MCTest |
-|2018|CQA||||[paper](http://aclweb.org/anthology/N18-1059)|  |  | |
-|2018|SQuAD 2.0| RC | 150k | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction | no answer: 50k | NewsQA |
-|2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| Free answering | conversational questions | QuAC |
-|2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)| Span extraction | conversational questions | CoQA |
-|2018| ComplexWebQuestions | RC | 34,689 | WebQuestionsSP |[web](https://www.tau-nlp.org/compwebq), [paper](https://www.aclweb.org/anthology/N18-1059.pdf)| Span extraction? | multi-passage |  |
-|2018| QAngaroo (Wikihop + Medhop) | RC |  | Wikipedia + Medline |[web](https://qangaroo.cs.ucl.ac.uk/), [paper](https://transacl.org/ojs/index.php/tacl/article/viewFile/1325/299)| Multiple choice | multi-passage | HotpotQA |
-|2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| Span extraction | multi-passage | QAngaroo |
-| 2018 | RecipeQA | RC | 36k | various |  |  | multimodal comprehension |  |
-| 2018 | CLOTH | RC | 99k | English exams |  | Cloze test |  | RACE |
-| 2018 | DuoRC | RC | 186k | movie plot |  | Span extraction |  | NarrativeQA  |
-| 2018 | CliCR | RC | 100k | clinical case text |  | Cloze test |  |  |
-| 2018 | FEVER |  |  |  |  |  |  | |
-| 2018 | ProPara | RC | 2k | procedural text |  |  |  | bAbI, SCoNE |
-| 2018 | ARC | RC | 8k | science exam |  |  | easy 5197, challenge 2590 | |
-| 2018 | DuReader |  |  |  |  | Free answering |  |  |
-| 2013 | WebQuestions | QA |  |  |  | |  |  |
-| 2015 | CuratedTREC | QA |  |  |  | |  |  |
-| 2016 | WikiMovies | QA |  |  |  | |  |  |
-| 2018 | OpenBookQA | QA | 6k | science facts |  | Multiple choice  | external knowledge | ARC |
-| 2018 | SWAG | QA | 113k | video caption |  | Multiple choice | situational commonsense reasoning |  |
-|2018|CSQA| QA |200k dialogs, 1.6M turns ||[paper](https://arxiv.org/pdf/1801.10314.pdf)|  |  |  |
-|2019| RC-QED | RC | 12k | Wikipedia |[web](https://naoya-i.github.io/rc-qed/), [paper](https://arxiv.org/pdf/1910.04601.pdf)| Multiple choice  | multi-passage | HotpotQA |
-|2019| COSMOS QA|  | 35,600 | narrative |[web](https://wilburone.github.io/cosmos/), [paper](https://www.aclweb.org/anthology/D19-1243.pdf)| Multiple choice  |  |  |
-|2019| QUOREF|  |  |  |[web], [paper](https://www.aclweb.org/anthology/D19-1606.pdf)|   |  |  |
-
 
 
 ## Knowledge Bases/Knowledge Sources
 - Wikidata, [web](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - Freebase, [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.538.7139&rep=rep1&type=pdf)
 - DBPedia
+
 
 ## Question Answering Systems
 - IBM's DeepQA
@@ -164,14 +120,7 @@
 - DrQA
 
 
-
 ## Others (Misc: Model, transfer learning, data augmentation, domain adaption, cross lingual ...)
-- Michael Hahn and Frank Keller, **Modeling Human Reading with Neural Attention**, EMNLP 2016, [paper](https://www.aclweb.org/anthology/D16-1009.pdf).
-- Jianpeng Cheng et al., **Long Short-Term Memory-Networks for Machine Reading**, EMNLP 2016, [paper](https://www.aclweb.org/anthology/D16-1053.pdf).
-- Kyosuke Nishida et al., **Multi-style Generative Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1220).
-- Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1485).
-- Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1486).
-- Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1415).
 - Minghao Hu, Yuxing Peng, Zhen Huang and Dongsheng Li, **A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning**, EMNLP 2019, [paper](https://www.aclweb.org/anthology/D19-1170.pdf).
 - Huazheng Wang, Zhe Gan, Xiaodong Liu, Jingjing Liu, Jianfeng Gao and Hongning Wang, **Adversarial Domain Adaptation for Machine Reading Comprehension**, EMNLP 2019, [paper](https://www.aclweb.org/anthology/D19-1254.pdf).
 - Yimin Jing, Deyi Xiong and Zhen Yan, **BiPaR: A Bilingual Parallel Dataset for Multilingual and Cross-lingual Reading Comprehension on Novels**, EMNLP 2019, [paper](https://www.aclweb.org/anthology/D19-1249.pdf).
@@ -182,6 +131,12 @@
 - Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang and Guoping Hu, **A Span-Extraction Dataset for Chinese Machine Reading Comprehension**, EMNLP 2019, [paper](https://www.aclweb.org/anthology/D19-1600.pdf).
 - Daniel Andor, Luheng He, Kenton Lee and Emily Pitler, **Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension**, EMNLP 2019, [paper](https://www.aclweb.org/anthology/D19-1609.pdf).
 - Tsung-Yuan Hsu, Chi-Liang Liu and Hung-yi Lee, **Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model**, EMNLP 2019, [paper](https://www.aclweb.org/anthology/D19-1607.pdf).
+- Kyosuke Nishida et al., **Multi-style Generative Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1220).
+- Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1485).
+- Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1486).
+- Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1415).
+- Michael Hahn and Frank Keller, **Modeling Human Reading with Neural Attention**, EMNLP 2016, [paper](https://www.aclweb.org/anthology/D16-1009.pdf).
+- Jianpeng Cheng et al., **Long Short-Term Memory-Networks for Machine Reading**, EMNLP 2016, [paper](https://www.aclweb.org/anthology/D16-1053.pdf).
 
 
 ## Thanks to these repositories:
