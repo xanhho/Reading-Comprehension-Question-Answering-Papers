@@ -1,16 +1,16 @@
 ## Content
-- [Survey papers]()
-- [Evaluation papers]()
-- [Models (for single-hop)]()
-- [Knowledge-based Machine Reading Comprehension]()
-- [Open-domain Question Answering]()
-- [Unanswerable Questions]()
-- [Multi-Passage Machine Reading Comprehension]()
-- [Conversational Question Answering]()
-- [Datasets]()
-- [Question answering systems]()
-- [Knowledge bases/Knowledge sources]()
-- [Papers misc]()
+- [Survey papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#surveyoverview-papersdocuments-should-read-on-machine-reading-comprehension)
+- [Evaluation papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#evaluation-papers)
+- [Models (for single-hop)](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#basic-papersmodels)
+- [Knowledge-based Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#kbmrc-knowledge-based-machine-reading-comprehension)
+- [Open-domain Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#opqa-open-domain-question-answering)
+- [Unanswerable Questions](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#uq-unanswerable-questions)
+- [Multi-Passage Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#multi-passage-mrc-multi-passage-machine-reading-comprehension)
+- [Conversational Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#cqa-conversational-question-answering)
+- [Datasets](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets)
+- [Question answering systems](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#knowledge-basesknowledge-sources)
+- [Knowledge bases/Knowledge sources](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#question-answering-systems)
+- [Papers misc](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#others-misc-model-transfer-learning-data-augmentation-domain-adaption-cross-lingual-)
 
 
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
