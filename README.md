@@ -1,3 +1,18 @@
+## Content
+- [Survey papers]()
+- [Evaluation papers]()
+- [Models (for single-hop)]()
+- [Knowledge-based Machine Reading Comprehension]()
+- [Open-domain Question Answering]()
+- [Unanswerable Questions]()
+- [Multi-Passage Machine Reading Comprehension]()
+- [Conversational Question Answering]()
+- [Datasets]()
+- [Question answering systems]()
+- [Knowledge bases/Knowledge sources]()
+- [Papers misc]()
+
+
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
 - Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01118.pdf).
 - Xin Zhang et al., **Machine Reading Comprehension: a Literature Review**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01686.pdf).
@@ -16,19 +31,6 @@
 
 
 ## Basic Papers/Models
-**Noted**
-
-- KBMRC: Knowledge-based Machine Reading Comprehension
-  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Knowledge-based-MRC 
-- OPQA: Open-domain Question Answering
-  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Open-domain-Question-Answering
-- UQ: Unanswerable Questions
-  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Unanswerable-Questions
-- Multi-Passage MRC: Multi-Passage Machine Reading Comprehension
-  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Multi-Passage-MRC
-- CQA: Conversational Question Answering
-  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/CQA
-
 | Year | Title | Model| Datasets | Misc                                                                  | Paper, Source Code |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2019 | XLNet: Generalized Autoregressive Pretraining for Language Understanding | XLNet | Race, SQuAD 1.1, SQuAD 2.0 | pretrained LM  | [paper](https://arxiv.org/pdf/1906.08237.pdf), [code](https://github.com/zihangdai/xlnet/) |
@@ -51,6 +53,22 @@
 | 2016 | Iterative Alternating Neural Attention for Machine Reading | Iterative Attention Reader | Children’s Book Test, CNN and Daily Mail |  | [paper](https://arxiv.org/pdf/1606.02245.pdf), [code]|
 | 2016 | A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task |  | CNN and Daily Mail |  | [paper](https://www.aclweb.org/anthology/P16-1223.pdf), [code] |
 | 2015 | Teaching Machines to Read and Comprehend | Attentive Reader | CNN and Daily Mail |  | [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), [code](https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend) |
+
+
+## KBMRC: Knowledge-based Machine Reading Comprehension
+  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Knowledge-based-MRC 
+  
+##  OPQA: Open-domain Question Answering
+  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Open-domain-Question-Answering
+  
+##  UQ: Unanswerable Questions
+  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Unanswerable-Questions
+  
+##  Multi-Passage MRC: Multi-Passage Machine Reading Comprehension
+  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Multi-Passage-MRC
+  
+##  CQA: Conversational Question Answering
+  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/CQA
 
 
 ## Datasets
