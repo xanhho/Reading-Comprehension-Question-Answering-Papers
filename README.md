@@ -135,8 +135,9 @@
 - Alon Talmor and Jonathan Berant, **MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1485).
 - Yi Tay et al., **Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1486).
 - Haichao Zhu et al., **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1415).
-- Patrick Lewis et al., **Unsupervised Question Answering by Cloze Translation**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1484.pdf). (<span style="color:orange;">Unsupervised Model</span>)
-<p style='color:red'>This is some red text.</p>
+- Patrick Lewis et al., **Unsupervised Question Answering by Cloze Translation**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-1484.pdf). (<span style="color:orange;">Unsupervised Model</span>) (<div class="text-orange mb-2">
+  .text-orange on white
+</div>)
 - Michael Hahn and Frank Keller, **Modeling Human Reading with Neural Attention**, EMNLP 2016, [paper](https://www.aclweb.org/anthology/D16-1009.pdf).
 - Jianpeng Cheng et al., **Long Short-Term Memory-Networks for Machine Reading**, EMNLP 2016, [paper](https://www.aclweb.org/anthology/D16-1053.pdf).
 
