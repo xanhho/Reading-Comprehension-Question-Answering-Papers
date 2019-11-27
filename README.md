@@ -1,5 +1,6 @@
 ## Content
 - [Survey papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#surveyoverview-papersdocuments-should-read-on-machine-reading-comprehension)
+- [Slides](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#slides)
 - [Evaluation papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#evaluation-papers)
 - [Models (for single-hop)](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#basic-papersmodels)
 - [Knowledge-based Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#kbmrc-knowledge-based-machine-reading-comprehension)
