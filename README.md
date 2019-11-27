@@ -20,6 +20,13 @@
 - Danqi Chen: **Neural Reading Comprehension and Beyond**. PhD thesis, Stanford University, 2018, [paper](https://github.com/danqi/thesis).
 
 
+## Slides
+- Sebastian Riedel, Reading and Reasoning with Neural Program Interpreters, [slides](https://mrqa2018.github.io/slides/sebastian.pdf), MRQA 2018.
+- Phil Blunsom, Data driven reading comprehension: successes and limitations, [slides](https://mrqa2018.github.io/slides/phil.pdf), MRQA 2018.
+- Jianfeng Gao, Multi-step reasoning neural networks for question answering, [slides](https://mrqa2018.github.io/slides/jianfeng.pdf), MRQA 2018.
+- Sameer Singh, Questioning Question Answering Answers, [slides](https://mrqa2018.github.io/slides/sameer.pdf), MRQA 2018.
+
+
 ## Evaluation papers
 - Diana Galvan, **Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-2014).
 - Divyansh Kaushik and Zachary C. Lipton, **How Much Reading Does Reading Comprehension Require? A Critical Investigation of Popular Benchmarks**, EMNLP 2018, [paper](https://www.aclweb.org/anthology/D18-1546.pdf).
