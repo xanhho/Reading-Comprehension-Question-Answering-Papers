@@ -15,6 +15,7 @@
 
 
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
+- Razieh Baradaran, Razieh Ghiasi, and Hossein Amirkhani, **A Survey on Machine Reading Comprehension Systems**, arXiv, 6 Jan 2020, [paper](https://arxiv.org/abs/2001.01582).
 - Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01118.pdf).
 - Xin Zhang et al., **Machine Reading Comprehension: a Literature Review**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01686.pdf).
 - Boyu Qiu et al., **A Survey on Neural Machine Reading Comprehension**, arXiv, 2019, [paper](https://arxiv.org/pdf/1906.03824.pdf).
