@@ -33,6 +33,7 @@
 - Diana Galvan, **Active Reading Comprehension: A dataset for learning the Question-Answer Relationship strategy**, ACL 2019, [paper](https://www.aclweb.org/anthology/P19-2014).
 - Divyansh Kaushik and Zachary C. Lipton, **How Much Reading Does Reading Comprehension Require? A Critical Investigation of Popular Benchmarks**, EMNLP 2018, [paper](https://www.aclweb.org/anthology/D18-1546.pdf).
 - Saku Sugawara et al., **What Makes Reading Comprehension Questions Easier?**, EMNLP 2018, [paper](https://www.aclweb.org/anthology/D18-1453.pdf).
+- Pramod K. Mudrakarta et al., **Did the Model Understand the Question?**, ACL 2018, [paper](https://www.aclweb.org/anthology/P18-1176.pdf).
 - Robin Jia and Percy Liang, **Adversarial Examples for Evaluating Reading Comprehension Systems**, EMNLP 2017, [paper](https://www.aclweb.org/anthology/D17-1215.pdf).
 - Saku Sugawara et al., **Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability**, ACL 2017, [paper](https://www.aclweb.org/anthology/P17-1075.pdf).
 - Saku Sugawara et al., **Prerequisite Skills for Reading Comprehension: Multi-perspective Analysis of MCTest Datasets and Systems**, AAAI 2017, [paper](http://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/14-Sugawara-14614.pdf).
