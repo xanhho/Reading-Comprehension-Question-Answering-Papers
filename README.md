@@ -15,6 +15,7 @@
 
 
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
+- Matthew Gardner et al., **On Making Reading Comprehension More Comprehensive.**, aclweb, 2019, [paper](https://www.aclweb.org/anthology/D19-5815.pdf).
 - Razieh Baradaran, Razieh Ghiasi, and Hossein Amirkhani, **A Survey on Machine Reading Comprehension Systems**, arXiv, 6 Jan 2020, [paper](https://arxiv.org/abs/2001.01582).
 - Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01118.pdf).
 - Xin Zhang et al., **Machine Reading Comprehension: a Literature Review**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01686.pdf).
@@ -90,14 +91,16 @@
 
 | Year | Dataset | Task | Size | Source | Web/Paper | Answer type                                                                  | Misc | Similar datasets |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2019 | ROPES | RC | 14k | Wikipedia + science textbooks | [web](https://allennlp.org/ropes), [paper](https://arxiv.org/pdf/1908.05852.pdf) | Span extraction | background passage + situation | ShARC |
 |2019| RC-QED | RC | 12k | Wikipedia |[web](https://naoya-i.github.io/rc-qed/), [paper](https://arxiv.org/pdf/1910.04601.pdf)| Multiple choice  | multi-passage | HotpotQA |
-|2019| QUOREF|  |  |  |[web], [paper](https://www.aclweb.org/anthology/D19-1606.pdf)|   |  |  |
+|2019| QUOREF| RC | 24k+ | Wikipedia |[web](https://allennlp.org/quoref), [paper](https://www.aclweb.org/anthology/D19-1606.pdf)| Span extraction | coreference resolution |  |
 |2019| COSMOS QA|  | 35,600 | narrative |[web](https://wilburone.github.io/cosmos/), [paper](https://www.aclweb.org/anthology/D19-1243.pdf)| Multiple choice  |  |  |
+|2019| DROP | RC | 96k | Wikipedia | [web](https://allennlp.org/drop), [paper](https://arxiv.org/pdf/1903.00161.pdf) | Span extraction + numerical reasoning | multi-span answers | |
+|2019| Natural Questions | RC | 323k | Wikipedia | [paper](https://www.aclweb.org/anthology/Q19-1026.pdf) | Span extraction | | |
 |2018|SQuAD 2.0| RC | 150k | Wikipedia |[paper](https://rajpurkar.github.io/SQuAD-explorer/)| Span extraction | no answer: 50k | NewsQA |
 |2018|MultiRC| RC | 6k+ questions | various articles | [web](https://cogcomp.seas.upenn.edu/multirc/), [paper](https://www.aclweb.org/anthology/N18-1023)| Multiple choice  | multiple sentence reasoning | MCTest |
 |2018|CSQA| QA |200k dialogs, 1.6M turns ||[paper](https://arxiv.org/pdf/1801.10314.pdf)|  |  |  |
-|2018|CQA||||[paper](http://aclweb.org/anthology/N18-1059)|  |  | |
-|2018| Quac | RC | 100k | Wikipedia |[paper](http://quac.ai/)| Span extraction | conversational questions | CoQA |
+|2018| QuAC | RC | 100k | Wikipedia |[web](http://quac.ai/), [paper](https://arxiv.org/pdf/1808.07036.pdf) | Span extraction | conversational questions | CoQA |
 |2018| QAngaroo (Wikihop + Medhop) | RC |  | Wikipedia + Medline |[web](https://qangaroo.cs.ucl.ac.uk/), [paper](https://transacl.org/ojs/index.php/tacl/article/viewFile/1325/299)| Multiple choice | multi-passage | HotpotQA |
 |2018| HotpotQA | RC | 113k | Wikipedia |[web](https://hotpotqa.github.io/), [paper](https://arxiv.org/pdf/1809.09600.pdf)| Span extraction | multi-passage | QAngaroo |
 |2018| CoQA | RC | 127k | various articles |[paper](https://stanfordnlp.github.io/coqa/)| Free answering | conversational questions | QuAC |
@@ -113,7 +116,7 @@
 | 2018 | CliCR | RC | 100k | clinical case text |  | Cloze test |  |  |
 | 2018 | ARC | RC | 8k | science exam |  |  | easy 5197, challenge 2590 | |
 |2017|WikiSuggest||||[paper](https://aclweb.org/anthology/D15-1237)|  |  | |
-|2017|TriviaQA||||[paper](http://nlp.cs.washington.edu/triviaqa/)| Span extraction | | |
+|2017|TriviaQA| RC | 96k question-answer pairs | Web + Wikipedia | [web](http://nlp.cs.washington.edu/triviaqa/), [paper](https://arxiv.org/pdf/1705.03551.pdf) | Span extraction | | SQuAD |
 |2017|SQA||||[paper](https://people.cs.umass.edu/~miyyer/pubs/2017_acl_dynsp.pdf)|  |  | |
 |2017|SearchQA||||[paper](https://arxiv.org/pdf/1704.05179.pdf)| Free answering |  | |
 |2017|RACE||||[paper](http://www.cs.cmu.edu/~glai1/data/race/)| Multiple choice |  | |
