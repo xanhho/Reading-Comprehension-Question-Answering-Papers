@@ -9,7 +9,7 @@
 - [Multi-Passage Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#multi-passage-mrc-multi-passage-machine-reading-comprehension)
 - [Conversational Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#cqa-conversational-question-answering)
 - [Datasets](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets)
-- [Datasets with Explanations](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Datasets-with-Explanations)
+- [Datasets with Explanations]()
 - [Question answering systems](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#question-answering-systems)
 - [Knowledge bases/Knowledge sources](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#knowledge-basesknowledge-sources)
 - [Papers misc](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#others-misc-model-transfer-learning-data-augmentation-domain-adaption-cross-lingual-)
@@ -137,6 +137,9 @@
 |2013|MCTest| RC | 500 stories + 2k questions | fictional stories |[paper](http://aclweb.org/anthology/D13-1020)| Multiple choice | open-domain  |  |
 |1999|DeepRead| RC | 60 development and 60 test? | news stories|[paper](https://dl.acm.org/citation.cfm?id=1034678.1034731)| Free answering |  |  |
 
+
+## Datasets with Explanations
+ * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Datasets-with-Explanations
 
 ## Knowledge Bases/Knowledge Sources
 - Wikidata, [web](https://www.wikidata.org/wiki/Wikidata:Main_Page)
