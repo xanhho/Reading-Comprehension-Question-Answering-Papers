@@ -9,6 +9,7 @@
 - [Multi-Passage Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#multi-passage-mrc-multi-passage-machine-reading-comprehension)
 - [Conversational Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#cqa-conversational-question-answering)
 - [Datasets](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets)
+- [Datasets with Explanations](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Datasets-with-Explanations)
 - [Question answering systems](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#question-answering-systems)
 - [Knowledge bases/Knowledge sources](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#knowledge-basesknowledge-sources)
 - [Papers misc](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#others-misc-model-transfer-learning-data-augmentation-domain-adaption-cross-lingual-)
