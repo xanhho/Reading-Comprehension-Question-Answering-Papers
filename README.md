@@ -10,6 +10,7 @@
 - [Conversational Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#cqa-conversational-question-answering)
 - [Datasets](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets)
 - [Datasets with Explanations](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets-with-explanations)
+- [QA over KG](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#qa-over-kg)
 - [Question answering systems](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#question-answering-systems)
 - [Knowledge bases/Knowledge sources](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#knowledge-basesknowledge-sources)
 - [Papers misc](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#others-misc-model-transfer-learning-data-augmentation-domain-adaption-cross-lingual-)
@@ -140,6 +141,9 @@
 
 ## Datasets with Explanations
  * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Datasets-with-Explanations
+ 
+ ## QA over KG
+ * Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/QA-over-KG
 
 ## Knowledge Bases/Knowledge Sources
 - Wikidata, [web](https://www.wikidata.org/wiki/Wikidata:Main_Page)
