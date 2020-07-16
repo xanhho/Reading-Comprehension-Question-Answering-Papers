@@ -17,6 +17,7 @@
 
 
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
+- Chengchang Zeng et al., **A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics, and Benchmark Datasets**, arXiv, 2020, [paper](https://arxiv.org/pdf/2006.11880.pdf).
 - Matthew Gardner et al., **On Making Reading Comprehension More Comprehensive.**, aclweb, 2019, [paper](https://www.aclweb.org/anthology/D19-5815.pdf).
 - Razieh Baradaran, Razieh Ghiasi, and Hossein Amirkhani, **A Survey on Machine Reading Comprehension Systems**, arXiv, 6 Jan 2020, [paper](https://arxiv.org/abs/2001.01582).
 - Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01118.pdf).
