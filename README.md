@@ -17,9 +17,12 @@
 
 
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
+- Mokanarangan Thayaparan, Marco Valentino, and André Freitas, **A Survey on Explainability in Machine Reading Comprehension**, arXiv, 2020, [paper](https://arxiv.org/pdf/2010.00389.pdf)
+- Viktor Schlegel et al., **Beyond Leaderboards: A survey of methods for revealing weaknesses in Natural Language Inference data and models**, arXiv, 2020, [paper](https://arxiv.org/pdf/2005.14709.pdf)
+- Viktor Schlegel et al., **A Framework for Evaluation of Machine Reading Comprehension Gold Standards**, arXiv, 2020, [paper](https://arxiv.org/pdf/2003.04642.pdf)
 - Chengchang Zeng et al., **A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics, and Benchmark Datasets**, arXiv, 2020, [paper](https://arxiv.org/pdf/2006.11880.pdf).
-- Matthew Gardner et al., **On Making Reading Comprehension More Comprehensive.**, aclweb, 2019, [paper](https://www.aclweb.org/anthology/D19-5815.pdf).
 - Razieh Baradaran, Razieh Ghiasi, and Hossein Amirkhani, **A Survey on Machine Reading Comprehension Systems**, arXiv, 6 Jan 2020, [paper](https://arxiv.org/abs/2001.01582).
+- Matthew Gardner et al., **On Making Reading Comprehension More Comprehensive.**, aclweb, 2019, [paper](https://www.aclweb.org/anthology/D19-5815.pdf).
 - Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01118.pdf).
 - Xin Zhang et al., **Machine Reading Comprehension: a Literature Review**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01686.pdf).
 - Boyu Qiu et al., **A Survey on Neural Machine Reading Comprehension**, arXiv, 2019, [paper](https://arxiv.org/pdf/1906.03824.pdf).
