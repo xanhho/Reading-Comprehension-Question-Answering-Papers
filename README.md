@@ -17,6 +17,7 @@
 
 
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
+- Fengbin Zhu et al., **Retrieving and Reading : A Comprehensive Survey on Open-domain Question Answering**, arXiv, 2021, [paper](https://arxiv.org/pdf/2101.00774.pdf)
 - Mokanarangan Thayaparan, Marco Valentino, and André Freitas, **A Survey on Explainability in Machine Reading Comprehension**, arXiv, 2020, [paper](https://arxiv.org/pdf/2010.00389.pdf)
 - Viktor Schlegel et al., **Beyond Leaderboards: A survey of methods for revealing weaknesses in Natural Language Inference data and models**, arXiv, 2020, [paper](https://arxiv.org/pdf/2005.14709.pdf)
 - Viktor Schlegel et al., **A Framework for Evaluation of Machine Reading Comprehension Gold Standards**, arXiv, 2020, [paper](https://arxiv.org/pdf/2003.04642.pdf)
