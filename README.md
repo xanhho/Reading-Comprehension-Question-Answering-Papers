@@ -96,6 +96,8 @@
   * Span extraction
   * Free answering
 
+- Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/MRC-Datasets
+
 | Year | Dataset | Task | Size | Source | Web/Paper | Answer type                                                                  | Misc | Similar datasets |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2019 | ROPES | RC | 14k | Wikipedia + science textbooks | [web](https://allennlp.org/ropes), [paper](https://arxiv.org/pdf/1908.05852.pdf) | Span extraction | background passage + situation | ShARC |
